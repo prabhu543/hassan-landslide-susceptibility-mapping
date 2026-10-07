@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>
+        Hassan Landslide Susceptibility Map
+    </title>
+
+    <!-- Google Font -->
+    <link rel="preconnect"
+          href="https://fonts.googleapis.com">
+
+    <link rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+          rel="stylesheet">
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet"
+          href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          crossorigin="">
+
+    <!-- Main CSS -->
+    <link rel="stylesheet"
+          href="style.css">
+</head>
+
+
+<body>
+
+
+<!-- =====================================================
+     HEADER
+====================================================== -->
+
+<header class="site-header">
+
+    <div class="brand">
+
+        <div class="brand-icon">
+            LSM
+        </div>
+
+        <div>
+            <strong>
+                Hassan LSM
+            </strong>
+
+            <span>
+                Landslide Susceptibility Mapping
+            </span>
+        </div>
+
+    </div>
+
+
+    <nav>
+
+        <a href="#map-section">
+            Map
+        </a>
+
+        <a href="#risk-explorer">
+            Risk Explorer
+        </a>
+
+        <a href="#about">
+            About
+        </a>
+
+    </nav>
+
+</header>
+
+
+
+<!-- =====================================================
+     HERO
+====================================================== -->
+
+<section class="hero">
+
+    <p class="eyebrow">
+        HASSAN DISTRICT · KARNATAKA
+    </p>
+
+    <h1>
+        Landslide Susceptibility Map
+    </h1>
+
+    <p class="hero-text">
+
+        Explore locations in Hassan district where the
+        predicted landslide susceptibility is
+        <strong>60% or higher</strong>.
+
+    </p>
+
+</section>
+
+
+
+<!-- =====================================================
+     STATISTICS
+====================================================== -->
+
+<section class="stats">
+
+    <div class="stat-card">
+
+        <span>
+            District
+        </span>
+
+        <strong>
+            Hassan
+        </strong>
+
+        <small>
+            Karnataka
+        </small>
+
+    </div>
+
+
+    <div class="stat-card">
+
+        <span>
+            Risk Threshold
+        </span>
+
+        <strong>
+            ≥ 60%
+        </strong>
+
+        <small>
+            Susceptibility
+        </small>
+
+    </div>
+
+
+    <div class="stat-card">
+
+        <span>
+            Taluks
+        </span>
+
+        <strong id="totalTaluks">
+            —
+        </strong>
+
+        <small>
+            Hassan district
+        </small>
+
+    </div>
+
+
+    <div class="stat-card">
+
+        <span>
+            Risk Locations
+        </span>
+
+        <strong id="highRiskPoints">
+            —
+        </strong>
+
+        <small>
+            ≥60% locations
+        </small>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     MAP SECTION
+====================================================== -->
+
+<section id="map-section"
+         class="section-block">
+
+    <div class="section-heading">
+
+        <p class="eyebrow">
+            INTERACTIVE MAP
+        </p>
+
+        <h2>
+            Hassan District Risk Map
+        </h2>
+
+        <p>
+            The boundary of Hassan district is highlighted
+            on the map. Only locations with susceptibility
+            of 60% or above are displayed.
+        </p>
+
+    </div>
+
+
+    <div class="map-toolbar">
+
+        <label class="toggle">
+
+            <input type="checkbox"
+                   id="highRiskToggle">
+
+            <span class="toggle-ui"></span>
+
+            <span>
+                Show only ≥80% very-high-risk locations
+            </span>
+
+        </label>
+
+
+        <button id="resetMap"
+                class="button secondary-button">
+
+            Reset Map
+
+        </button>
+
+    </div>
+
+
+
+    <div class="map-container">
+
+        <div id="map"></div>
+
+
+        <!-- =================================================
+             SIMPLIFIED LEGEND
+        ================================================== -->
+
+        <div class="legend">
+
+            <h3>
+                Susceptibility
+            </h3>
+
+
+            <div>
+
+                <span class="swatch moderate"></span>
+
+                <span>
+                    Moderate
+                </span>
+
+                <strong>
+                    60–69%
+                </strong>
+
+            </div>
+
+
+            <div>
+
+                <span class="swatch high"></span>
+
+                <span>
+                    High
+                </span>
+
+                <strong>
+                    70–79%
+                </strong>
+
+            </div>
+
+
+            <div>
+
+                <span class="swatch very-high"></span>
+
+                <span>
+                    Very High
+                </span>
+
+                <strong>
+                    ≥80%
+                </strong>
+
+            </div>
+
+
+            <hr>
+
+
+            <small>
+                Only locations ≥60% are shown
+            </small>
+
+        </div>
+
+
+        <!-- Map loading/status message -->
+
+        <div id="mapStatus"
+             class="map-status">
+
+            Loading Hassan susceptibility data...
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     SELECTED LOCATION
+====================================================== -->
+
+<section class="section-block">
+
+    <div class="section-heading compact">
+
+        <p class="eyebrow">
+            SELECTED LOCATION
+        </p>
+
+        <h2>
+            Location Information
+        </h2>
+
+    </div>
+
+
+    <div id="locationInformation"
+         class="information">
+
+        <div class="location-card empty-state">
+
+            <strong>
+                Select a location
+            </strong>
+
+            <span>
+                Click any susceptibility point on the map
+                to view its details.
+            </span>
+
+        </div>
+
+
+        <div class="location-card">
+
+            <div class="location-grid">
+
+                <div class="info-item">
+
+                    <small>
+                        Village
+                    </small>
+
+                    <strong id="selectedVillage">
+                        —
+                    </strong>
+
+                </div>
+
+
+                <div class="info-item">
+
+                    <small>
+                        Taluk
+                    </small>
+
+                    <strong id="selectedTaluk">
+                        —
+                    </strong>
+
+                </div>
+
+
+                <div class="info-item">
+
+                    <small>
+                        PIN Code
+                    </small>
+
+                    <strong id="selectedPincode">
+                        —
+                    </strong>
+
+                </div>
+
+
+                <div class="info-item">
+
+                    <small>
+                        Susceptibility
+                    </small>
+
+                    <strong id="selectedRisk">
+                        —
+                    </strong>
+
+                </div>
+
+
+                <div class="info-item">
+
+                    <small>
+                        Risk Class
+                    </small>
+
+                    <strong id="selectedRiskClass">
+                        —
+                    </strong>
+
+                </div>
+
+
+                <div class="info-item">
+
+                    <small>
+                        Coordinates
+                    </small>
+
+                    <strong id="selectedCoordinates">
+                        —
+                    </strong>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     RISK EXPLORER
+====================================================== -->
+
+<section id="risk-explorer"
+         class="section-block risk-explorer">
+
+    <div class="section-heading">
+
+        <p class="eyebrow">
+            RISK EXPLORER
+        </p>
+
+        <h2>
+            Find High-Susceptibility Locations
+        </h2>
+
+        <p>
+            Search by taluk, PIN code or village.
+            The explorer contains locations with
+            susceptibility ≥60%.
+        </p>
+
+    </div>
+
+
+    <div class="explorer-grid">
+
+
+        <!-- FILTERS -->
+
+        <div class="filters-card">
+
+            <div class="field-group">
+
+                <label for="talukFilter">
+                    Taluk
+                </label>
+
+                <select id="talukFilter">
+
+                    <option value="">
+                        All Taluks
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <div class="field-group">
+
+                <label for="pincodeFilter">
+                    PIN Code
+                </label>
+
+                <select id="pincodeFilter">
+
+                    <option value="">
+                        All PIN Codes
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <div class="field-group">
+
+                <label for="villageSearch">
+                    Village
+                </label>
+
+                <div class="search-box">
+
+                    <input
+                        id="villageSearch"
+                        type="search"
+                        placeholder="Search village..."
+                        autocomplete="off"
+                    >
+
+                    <button id="clearSearch"
+                            type="button">
+
+                        ×
+
+                    </button>
+
+                </div>
+
+            </div>
+
+
+            <button id="showAll"
+                    class="button primary-button">
+
+                Show All Locations
+
+            </button>
+
+
+            <button id="resetFilters"
+                    class="button secondary-button full-button">
+
+                Reset Filters
+
+            </button>
+
+        </div>
+
+
+
+        <!-- RESULTS -->
+
+        <div class="results-card">
+
+            <div class="results-head">
+
+                <div>
+
+                    <h3>
+                        High-Susceptibility Villages
+                    </h3>
+
+                    <p id="resultsDescription">
+                        Locations with susceptibility ≥60%
+                    </p>
+
+                </div>
+
+
+                <div id="resultCount"
+                     class="result-count">
+
+                    0
+
+                </div>
+
+            </div>
+
+
+            <div id="resultsList"
+                 class="results-list">
+
+                <div class="no-results">
+
+                    Loading locations...
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     ABOUT
+====================================================== -->
+
+<section id="about"
+         class="about">
+
+    <div class="about-inner">
+
+        <p class="eyebrow">
+            ABOUT THE MAP
+        </p>
+
+        <h2>
+            Hassan Landslide Susceptibility Mapping
+        </h2>
+
+        <p>
+
+            This interactive map presents locations in
+            Hassan district identified by the machine
+            learning based landslide susceptibility
+            analysis.
+
+        </p>
+
+        <p>
+
+            For this frontend, the risk explorer focuses
+            on locations with a predicted susceptibility
+            of <strong>60% or greater</strong>.
+
+        </p>
+
+
+        <div class="warning">
+
+            <strong>
+                Important:
+            </strong>
+
+            Susceptibility indicates the predicted
+            likelihood or vulnerability of a location.
+            It does not mean that a landslide will
+            definitely occur at that location.
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     FOOTER
+====================================================== -->
+
+<footer>
+
+    <span>
+        Hassan Landslide Susceptibility Mapping
+    </span>
+
+    <span>
+        GIS · Machine Learning · Transfer Learning
+    </span>
+
+</footer>
+
+
+
+<!-- =====================================================
+     JAVASCRIPT LIBRARIES
+====================================================== -->
+
+<script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    crossorigin="">
+</script>
+
+
+<script
+    src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.3/papaparse.min.js">
+</script>
+
+
+<!-- Application JS -->
+
+<script src="script.js"></script>
+
+
+</body>
+
+</html>

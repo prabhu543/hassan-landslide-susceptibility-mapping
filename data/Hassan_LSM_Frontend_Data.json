@@ -1,0 +1,6314 @@
+{
+  "project": "Hassan Landslide Susceptibility Mapping",
+  "description": "High landslide susceptibility locations in Hassan district with susceptibility >= 60%.",
+  "total_points": 613,
+  "total_taluks": 8,
+  "total_villages": 125,
+  "total_pin_codes": 27,
+  "taluks": [
+    {
+      "taluk": "Alur",
+      "high_risk_points": 21,
+      "maximum_susceptibility": 96.99,
+      "villages": [
+        {
+          "village": "Bettahalli",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 64.42,
+          "average_susceptibility": 63.61,
+          "pin_codes": [
+            "573218"
+          ],
+          "locations": [
+            {
+              "id": 1959,
+              "latitude": 12.894636413366134,
+              "longitude": 75.92724590102216,
+              "susceptibility": 64.42,
+              "risk": "Moderate"
+            },
+            {
+              "id": 1743,
+              "latitude": 12.894926070595986,
+              "longitude": 75.93004037366654,
+              "susceptibility": 62.79,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Bhaktarahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 79.89,
+          "average_susceptibility": 79.89,
+          "pin_codes": [
+            "573218"
+          ],
+          "locations": [
+            {
+              "id": 10212,
+              "latitude": 12.870732101156811,
+              "longitude": 75.99910417420749,
+              "susceptibility": 79.89,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Bharathuru",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 96.99,
+          "average_susceptibility": 96.99,
+          "pin_codes": [
+            "573139"
+          ],
+          "locations": [
+            {
+              "id": 13466,
+              "latitude": 12.81690041901468,
+              "longitude": 75.92782382773433,
+              "susceptibility": 96.99,
+              "risk": "Very High"
+            }
+          ]
+        },
+        {
+          "village": "Devarapura",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 62.16,
+          "average_susceptibility": 62.16,
+          "pin_codes": [
+            "573139"
+          ],
+          "locations": [
+            {
+              "id": 1890,
+              "latitude": 12.860452182444948,
+              "longitude": 75.95794148465404,
+              "susceptibility": 62.16,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Halliyaru",
+          "high_risk_points": 6,
+          "maximum_susceptibility": 91.53,
+          "average_susceptibility": 70.55,
+          "pin_codes": [
+            "573139"
+          ],
+          "locations": [
+            {
+              "id": 12461,
+              "latitude": 12.883496034131834,
+              "longitude": 75.9112118946473,
+              "susceptibility": 91.53,
+              "risk": "Very High"
+            },
+            {
+              "id": 21471,
+              "latitude": 12.899805308840415,
+              "longitude": 75.897873818325,
+              "susceptibility": 71.34,
+              "risk": "High"
+            },
+            {
+              "id": 13116,
+              "latitude": 12.901845637942856,
+              "longitude": 75.89374567059306,
+              "susceptibility": 69.55,
+              "risk": "Moderate"
+            },
+            {
+              "id": 23702,
+              "latitude": 12.896428961430749,
+              "longitude": 75.89641270022926,
+              "susceptibility": 65.08,
+              "risk": "Moderate"
+            },
+            {
+              "id": 18500,
+              "latitude": 12.89809075784834,
+              "longitude": 75.893330771175,
+              "susceptibility": 63.96,
+              "risk": "Moderate"
+            },
+            {
+              "id": 24926,
+              "latitude": 12.866790539344986,
+              "longitude": 75.92147194846181,
+              "susceptibility": 61.83,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Hanjalige",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 63.69,
+          "average_susceptibility": 63.69,
+          "pin_codes": [
+            "573139"
+          ],
+          "locations": [
+            {
+              "id": 3941,
+              "latitude": 12.827402385161164,
+              "longitude": 75.9537066318506,
+              "susceptibility": 63.69,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Hemmige",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 67.93,
+          "average_susceptibility": 64.34,
+          "pin_codes": [
+            "573139"
+          ],
+          "locations": [
+            {
+              "id": 2557,
+              "latitude": 12.8294686909175,
+              "longitude": 75.90029443194187,
+              "susceptibility": 67.93,
+              "risk": "Moderate"
+            },
+            {
+              "id": 21625,
+              "latitude": 12.827272416972738,
+              "longitude": 75.9081604419686,
+              "susceptibility": 60.75,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Kanive Basavanahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 68.43,
+          "average_susceptibility": 68.43,
+          "pin_codes": [
+            "573139"
+          ],
+          "locations": [
+            {
+              "id": 20315,
+              "latitude": 12.8569828430813,
+              "longitude": 75.94879377032113,
+              "susceptibility": 68.43,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Kodagatavalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 63.2,
+          "average_susceptibility": 63.2,
+          "pin_codes": [
+            "573139"
+          ],
+          "locations": [
+            {
+              "id": 24876,
+              "latitude": 12.835488433319965,
+              "longitude": 75.95450903643032,
+              "susceptibility": 63.2,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Malagalale",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 64.28,
+          "average_susceptibility": 63.47,
+          "pin_codes": [
+            "573129"
+          ],
+          "locations": [
+            {
+              "id": 14055,
+              "latitude": 12.895192328576734,
+              "longitude": 75.87719460083417,
+              "susceptibility": 64.28,
+              "risk": "Moderate"
+            },
+            {
+              "id": 19151,
+              "latitude": 12.874179731211983,
+              "longitude": 75.90203007886397,
+              "susceptibility": 62.66,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Rayara Koppalu",
+          "high_risk_points": 3,
+          "maximum_susceptibility": 66.35,
+          "average_susceptibility": 63.34,
+          "pin_codes": [
+            "573139"
+          ],
+          "locations": [
+            {
+              "id": 2885,
+              "latitude": 12.84140510417598,
+              "longitude": 75.8498975741633,
+              "susceptibility": 66.35,
+              "risk": "Moderate"
+            },
+            {
+              "id": 23401,
+              "latitude": 12.86540137196982,
+              "longitude": 75.89535629459853,
+              "susceptibility": 63.11,
+              "risk": "Moderate"
+            },
+            {
+              "id": 5493,
+              "latitude": 12.85349611506566,
+              "longitude": 75.9310864854702,
+              "susceptibility": 60.57,
+              "risk": "Moderate"
+            }
+          ]
+        }
+      ],
+      "pin_codes": [
+        {
+          "pincode": "573129",
+          "high_risk_points": 2,
+          "villages": [
+            "Malagalale"
+          ],
+          "maximum_susceptibility": 64.28,
+          "locations": [
+            {
+              "id": 14055,
+              "village": "Malagalale",
+              "latitude": 12.895192328576734,
+              "longitude": 75.87719460083417,
+              "susceptibility": 64.28,
+              "risk": "Moderate"
+            },
+            {
+              "id": 19151,
+              "village": "Malagalale",
+              "latitude": 12.874179731211983,
+              "longitude": 75.90203007886397,
+              "susceptibility": 62.66,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "pincode": "573139",
+          "high_risk_points": 16,
+          "villages": [
+            "Bharathuru",
+            "Devarapura",
+            "Halliyaru",
+            "Hanjalige",
+            "Hemmige",
+            "Kanive Basavanahalli",
+            "Kodagatavalli",
+            "Rayara Koppalu"
+          ],
+          "maximum_susceptibility": 96.99,
+          "locations": [
+            {
+              "id": 13466,
+              "village": "Bharathuru",
+              "latitude": 12.81690041901468,
+              "longitude": 75.92782382773433,
+              "susceptibility": 96.99,
+              "risk": "Very High"
+            },
+            {
+              "id": 12461,
+              "village": "Halliyaru",
+              "latitude": 12.883496034131834,
+              "longitude": 75.9112118946473,
+              "susceptibility": 91.53,
+              "risk": "Very High"
+            },
+            {
+              "id": 21471,
+              "village": "Halliyaru",
+              "latitude": 12.899805308840415,
+              "longitude": 75.897873818325,
+              "susceptibility": 71.34,
+              "risk": "High"
+            },
+            {
+              "id": 13116,
+              "village": "Halliyaru",
+              "latitude": 12.901845637942856,
+              "longitude": 75.89374567059306,
+              "susceptibility": 69.55,
+              "risk": "Moderate"
+            },
+            {
+              "id": 20315,
+              "village": "Kanive Basavanahalli",
+              "latitude": 12.8569828430813,
+              "longitude": 75.94879377032113,
+              "susceptibility": 68.43,
+              "risk": "Moderate"
+            },
+            {
+              "id": 2557,
+              "village": "Hemmige",
+              "latitude": 12.8294686909175,
+              "longitude": 75.90029443194187,
+              "susceptibility": 67.93,
+              "risk": "Moderate"
+            },
+            {
+              "id": 2885,
+              "village": "Rayara Koppalu",
+              "latitude": 12.84140510417598,
+              "longitude": 75.8498975741633,
+              "susceptibility": 66.35,
+              "risk": "Moderate"
+            },
+            {
+              "id": 23702,
+              "village": "Halliyaru",
+              "latitude": 12.896428961430749,
+              "longitude": 75.89641270022926,
+              "susceptibility": 65.08,
+              "risk": "Moderate"
+            },
+            {
+              "id": 18500,
+              "village": "Halliyaru",
+              "latitude": 12.89809075784834,
+              "longitude": 75.893330771175,
+              "susceptibility": 63.96,
+              "risk": "Moderate"
+            },
+            {
+              "id": 3941,
+              "village": "Hanjalige",
+              "latitude": 12.827402385161164,
+              "longitude": 75.9537066318506,
+              "susceptibility": 63.69,
+              "risk": "Moderate"
+            },
+            {
+              "id": 24876,
+              "village": "Kodagatavalli",
+              "latitude": 12.835488433319965,
+              "longitude": 75.95450903643032,
+              "susceptibility": 63.2,
+              "risk": "Moderate"
+            },
+            {
+              "id": 23401,
+              "village": "Rayara Koppalu",
+              "latitude": 12.86540137196982,
+              "longitude": 75.89535629459853,
+              "susceptibility": 63.11,
+              "risk": "Moderate"
+            },
+            {
+              "id": 1890,
+              "village": "Devarapura",
+              "latitude": 12.860452182444948,
+              "longitude": 75.95794148465404,
+              "susceptibility": 62.16,
+              "risk": "Moderate"
+            },
+            {
+              "id": 24926,
+              "village": "Halliyaru",
+              "latitude": 12.866790539344986,
+              "longitude": 75.92147194846181,
+              "susceptibility": 61.83,
+              "risk": "Moderate"
+            },
+            {
+              "id": 21625,
+              "village": "Hemmige",
+              "latitude": 12.827272416972738,
+              "longitude": 75.9081604419686,
+              "susceptibility": 60.75,
+              "risk": "Moderate"
+            },
+            {
+              "id": 5493,
+              "village": "Rayara Koppalu",
+              "latitude": 12.85349611506566,
+              "longitude": 75.9310864854702,
+              "susceptibility": 60.57,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "pincode": "573218",
+          "high_risk_points": 3,
+          "villages": [
+            "Bettahalli",
+            "Bhaktarahalli"
+          ],
+          "maximum_susceptibility": 79.89,
+          "locations": [
+            {
+              "id": 10212,
+              "village": "Bhaktarahalli",
+              "latitude": 12.870732101156811,
+              "longitude": 75.99910417420749,
+              "susceptibility": 79.89,
+              "risk": "High"
+            },
+            {
+              "id": 1959,
+              "village": "Bettahalli",
+              "latitude": 12.894636413366134,
+              "longitude": 75.92724590102216,
+              "susceptibility": 64.42,
+              "risk": "Moderate"
+            },
+            {
+              "id": 1743,
+              "village": "Bettahalli",
+              "latitude": 12.894926070595986,
+              "longitude": 75.93004037366654,
+              "susceptibility": 62.79,
+              "risk": "Moderate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "taluk": "Arkalgud",
+      "high_risk_points": 1,
+      "maximum_susceptibility": 76.52,
+      "villages": [
+        {
+          "village": "Siddapura",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 76.52,
+          "average_susceptibility": 76.52,
+          "pin_codes": [
+            "573130"
+          ],
+          "locations": [
+            {
+              "id": 4213,
+              "latitude": 12.619686431308608,
+              "longitude": 76.0184092366207,
+              "susceptibility": 76.52,
+              "risk": "High"
+            }
+          ]
+        }
+      ],
+      "pin_codes": [
+        {
+          "pincode": "573130",
+          "high_risk_points": 1,
+          "villages": [
+            "Siddapura"
+          ],
+          "maximum_susceptibility": 76.52,
+          "locations": [
+            {
+              "id": 4213,
+              "village": "Siddapura",
+              "latitude": 12.619686431308608,
+              "longitude": 76.0184092366207,
+              "susceptibility": 76.52,
+              "risk": "High"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "taluk": "Arsikere",
+      "high_risk_points": 54,
+      "maximum_susceptibility": 96.26,
+      "villages": [
+        {
+          "village": "Aggunda",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 72.77,
+          "average_susceptibility": 72.77,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 7417,
+              "latitude": 13.349257455090482,
+              "longitude": 76.29437144085747,
+              "susceptibility": 72.77,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Anandanahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 60.74,
+          "average_susceptibility": 60.74,
+          "pin_codes": [
+            "573112"
+          ],
+          "locations": [
+            {
+              "id": 1089,
+              "latitude": 13.429660547751974,
+              "longitude": 76.27243794616675,
+              "susceptibility": 60.74,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Arakere",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 74.15,
+          "average_susceptibility": 74.15,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 15825,
+              "latitude": 13.352212929416924,
+              "longitude": 76.1347486920233,
+              "susceptibility": 74.15,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Bairambudi",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 60.41,
+          "average_susceptibility": 60.41,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 12222,
+              "latitude": 13.321562278073946,
+              "longitude": 76.1611112568398,
+              "susceptibility": 60.41,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Battihalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 64.91,
+          "average_susceptibility": 64.91,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 2408,
+              "latitude": 13.500961357885956,
+              "longitude": 76.23508799734635,
+              "susceptibility": 64.91,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Bisalehalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 75.62,
+          "average_susceptibility": 75.62,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 16548,
+              "latitude": 13.210331562015988,
+              "longitude": 76.28338207917555,
+              "susceptibility": 75.62,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Chikkagandasi",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 68.45,
+          "average_susceptibility": 68.45,
+          "pin_codes": [
+            "573119"
+          ],
+          "locations": [
+            {
+              "id": 8861,
+              "latitude": 13.183340307707352,
+              "longitude": 76.3221169806544,
+              "susceptibility": 68.45,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Chikkahalkuru",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 66.01,
+          "average_susceptibility": 65.5,
+          "pin_codes": [
+            "573126"
+          ],
+          "locations": [
+            {
+              "id": 14082,
+              "latitude": 13.401839199642197,
+              "longitude": 76.33429716479317,
+              "susceptibility": 66.01,
+              "risk": "Moderate"
+            },
+            {
+              "id": 23205,
+              "latitude": 13.396955229501222,
+              "longitude": 76.33581576142046,
+              "susceptibility": 64.99,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Deshani",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 82.31,
+          "average_susceptibility": 75.84,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 21158,
+              "latitude": 13.278021401546278,
+              "longitude": 76.15644152801713,
+              "susceptibility": 82.31,
+              "risk": "Very High"
+            },
+            {
+              "id": 6277,
+              "latitude": 13.274219745726372,
+              "longitude": 76.15323253769778,
+              "susceptibility": 69.37,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Doddahatti",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 72.43,
+          "average_susceptibility": 70.4,
+          "pin_codes": [
+            "573162"
+          ],
+          "locations": [
+            {
+              "id": 13696,
+              "latitude": 13.183414442966978,
+              "longitude": 76.19484547639917,
+              "susceptibility": 72.43,
+              "risk": "High"
+            },
+            {
+              "id": 10785,
+              "latitude": 13.185211056759814,
+              "longitude": 76.19180896114264,
+              "susceptibility": 68.37,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Doddenahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 83.4,
+          "average_susceptibility": 83.4,
+          "pin_codes": [
+            "573122"
+          ],
+          "locations": [
+            {
+              "id": 18733,
+              "latitude": 13.220929688113776,
+              "longitude": 76.21481429694195,
+              "susceptibility": 83.4,
+              "risk": "Very High"
+            }
+          ]
+        },
+        {
+          "village": "Govinapura",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 60.76,
+          "average_susceptibility": 60.76,
+          "pin_codes": [
+            "573122"
+          ],
+          "locations": [
+            {
+              "id": 17283,
+              "latitude": 13.273593931957247,
+              "longitude": 76.19107380453511,
+              "susceptibility": 60.76,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Handralu",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 70.76,
+          "average_susceptibility": 70.43,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 21022,
+              "latitude": 13.265375655605986,
+              "longitude": 76.14301503667619,
+              "susceptibility": 70.76,
+              "risk": "High"
+            },
+            {
+              "id": 7899,
+              "latitude": 13.263006017890186,
+              "longitude": 76.14088670309965,
+              "susceptibility": 70.09,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Handralu Tandya",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 68.99,
+          "average_susceptibility": 68.99,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 20790,
+              "latitude": 13.27662880034048,
+              "longitude": 76.14455497447841,
+              "susceptibility": 68.99,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Haranahalli",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 64.89,
+          "average_susceptibility": 64.2,
+          "pin_codes": [
+            "573122"
+          ],
+          "locations": [
+            {
+              "id": 10930,
+              "latitude": 13.243127008132532,
+              "longitude": 76.22571978520858,
+              "susceptibility": 64.89,
+              "risk": "Moderate"
+            },
+            {
+              "id": 8705,
+              "latitude": 13.247624774698464,
+              "longitude": 76.22979417934225,
+              "susceptibility": 63.51,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Jyotimallapura",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 96.26,
+          "average_susceptibility": 96.26,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 19653,
+              "latitude": 13.248066500925733,
+              "longitude": 76.26798586975819,
+              "susceptibility": 96.26,
+              "risk": "Very High"
+            }
+          ]
+        },
+        {
+          "village": "Kadehalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 69.99,
+          "average_susceptibility": 69.99,
+          "pin_codes": [
+            "573162"
+          ],
+          "locations": [
+            {
+              "id": 10122,
+              "latitude": 13.178122957791038,
+              "longitude": 76.19228816706419,
+              "susceptibility": 69.99,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Kalyadi",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 75.7,
+          "average_susceptibility": 68.88,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 12000,
+              "latitude": 13.216743009534518,
+              "longitude": 76.13840880037688,
+              "susceptibility": 75.7,
+              "risk": "High"
+            },
+            {
+              "id": 24177,
+              "latitude": 13.208643864288232,
+              "longitude": 76.13621140439673,
+              "susceptibility": 62.06,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Kommaraghatta",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 71.71,
+          "average_susceptibility": 71.71,
+          "pin_codes": [
+            "573162"
+          ],
+          "locations": [
+            {
+              "id": 13570,
+              "latitude": 13.147530124712292,
+              "longitude": 76.16884098860045,
+              "susceptibility": 71.71,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Madapura",
+          "high_risk_points": 3,
+          "maximum_susceptibility": 90.44,
+          "average_susceptibility": 78.23,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 14812,
+              "latitude": 13.273835362547889,
+              "longitude": 76.17315456182568,
+              "susceptibility": 90.44,
+              "risk": "Very High"
+            },
+            {
+              "id": 24576,
+              "latitude": 13.272954785429333,
+              "longitude": 76.18013793375042,
+              "susceptibility": 84.01,
+              "risk": "Very High"
+            },
+            {
+              "id": 7725,
+              "latitude": 13.273881573744832,
+              "longitude": 76.17613400796255,
+              "susceptibility": 60.23,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Malekallu Tirupathi",
+          "high_risk_points": 6,
+          "maximum_susceptibility": 81.61,
+          "average_susceptibility": 73.18,
+          "pin_codes": [
+            "573103"
+          ],
+          "locations": [
+            {
+              "id": 9522,
+              "latitude": 13.33856870731106,
+              "longitude": 76.27045531975358,
+              "susceptibility": 81.61,
+              "risk": "Very High"
+            },
+            {
+              "id": 24785,
+              "latitude": 13.34187327384122,
+              "longitude": 76.27799230302745,
+              "susceptibility": 79.92,
+              "risk": "High"
+            },
+            {
+              "id": 20124,
+              "latitude": 13.338400586483967,
+              "longitude": 76.27338943536931,
+              "susceptibility": 78.46,
+              "risk": "High"
+            },
+            {
+              "id": 15965,
+              "latitude": 13.344830859018805,
+              "longitude": 76.2779293123211,
+              "susceptibility": 68.37,
+              "risk": "Moderate"
+            },
+            {
+              "id": 3186,
+              "latitude": 13.341665112307592,
+              "longitude": 76.28155220402142,
+              "susceptibility": 65.65,
+              "risk": "Moderate"
+            },
+            {
+              "id": 1147,
+              "latitude": 13.341949469061356,
+              "longitude": 76.28574512853427,
+              "susceptibility": 65.07,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Mudanahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 69.2,
+          "average_susceptibility": 69.2,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 16298,
+              "latitude": 13.291602279809055,
+              "longitude": 76.18643723334725,
+              "susceptibility": 69.2,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Murundi",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 63.73,
+          "average_susceptibility": 63.73,
+          "pin_codes": [
+            "573122"
+          ],
+          "locations": [
+            {
+              "id": 1006,
+              "latitude": 13.280485349238711,
+              "longitude": 76.20028314019022,
+              "susceptibility": 63.73,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Nagathihalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 60.4,
+          "average_susceptibility": 60.4,
+          "pin_codes": [
+            "573103"
+          ],
+          "locations": [
+            {
+              "id": 10107,
+              "latitude": 13.356273589636334,
+              "longitude": 76.26773635987871,
+              "susceptibility": 60.4,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Ranjihalli",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 76.02,
+          "average_susceptibility": 74.68,
+          "pin_codes": [
+            "573162"
+          ],
+          "locations": [
+            {
+              "id": 13145,
+              "latitude": 13.169710552832711,
+              "longitude": 76.20221750521614,
+              "susceptibility": 76.02,
+              "risk": "High"
+            },
+            {
+              "id": 5584,
+              "latitude": 13.166158975704493,
+              "longitude": 76.20287634674543,
+              "susceptibility": 73.34,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Shankaranahalli",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 65.33,
+          "average_susceptibility": 64.98,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 20208,
+              "latitude": 13.357229804688986,
+              "longitude": 76.29054955846729,
+              "susceptibility": 65.33,
+              "risk": "Moderate"
+            },
+            {
+              "id": 14498,
+              "latitude": 13.35619261556896,
+              "longitude": 76.29647464203954,
+              "susceptibility": 64.64,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Singanahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 85.12,
+          "average_susceptibility": 85.12,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 18444,
+              "latitude": 13.3141759585031,
+              "longitude": 76.15152102773946,
+              "susceptibility": 85.12,
+              "risk": "Very High"
+            }
+          ]
+        },
+        {
+          "village": "Timlapura",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 79.22,
+          "average_susceptibility": 79.22,
+          "pin_codes": [
+            "577182"
+          ],
+          "locations": [
+            {
+              "id": 12995,
+              "latitude": 13.47636406761706,
+              "longitude": 76.24402139009916,
+              "susceptibility": 79.22,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Tirupatihalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 63.71,
+          "average_susceptibility": 63.71,
+          "pin_codes": [
+            "573125"
+          ],
+          "locations": [
+            {
+              "id": 24314,
+              "latitude": 13.334907535411018,
+              "longitude": 76.13862935032448,
+              "susceptibility": 63.71,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Vaderahalli",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 68.48,
+          "average_susceptibility": 66.03,
+          "pin_codes": [
+            "573122"
+          ],
+          "locations": [
+            {
+              "id": 16126,
+              "latitude": 13.244974472748678,
+              "longitude": 76.19134720217765,
+              "susceptibility": 68.48,
+              "risk": "Moderate"
+            },
+            {
+              "id": 11244,
+              "latitude": 13.250868081489948,
+              "longitude": 76.19008890186555,
+              "susceptibility": 63.59,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Vandinal",
+          "high_risk_points": 3,
+          "maximum_susceptibility": 84.21,
+          "average_susceptibility": 69.41,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 5545,
+              "latitude": 13.251194582242382,
+              "longitude": 76.14948444801848,
+              "susceptibility": 84.21,
+              "risk": "Very High"
+            },
+            {
+              "id": 6101,
+              "latitude": 13.24431857065226,
+              "longitude": 76.12314267737993,
+              "susceptibility": 63.22,
+              "risk": "Moderate"
+            },
+            {
+              "id": 101,
+              "latitude": 13.26118244593568,
+              "longitude": 76.1480180965832,
+              "susceptibility": 60.79,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Vrundavanahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 63.54,
+          "average_susceptibility": 63.54,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 4239,
+              "latitude": 13.215521756116514,
+              "longitude": 76.15401736120654,
+              "susceptibility": 63.54,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Yadapura",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 89.44,
+          "average_susceptibility": 75.95,
+          "pin_codes": [
+            "573103"
+          ],
+          "locations": [
+            {
+              "id": 2001,
+              "latitude": 13.289332672172204,
+              "longitude": 76.20731001875755,
+              "susceptibility": 89.44,
+              "risk": "Very High"
+            },
+            {
+              "id": 13261,
+              "latitude": 13.303743997079245,
+              "longitude": 76.1986000768982,
+              "susceptibility": 62.46,
+              "risk": "Moderate"
+            }
+          ]
+        }
+      ],
+      "pin_codes": [
+        {
+          "pincode": "573103",
+          "high_risk_points": 9,
+          "villages": [
+            "Malekallu Tirupathi",
+            "Nagathihalli",
+            "Yadapura"
+          ],
+          "maximum_susceptibility": 89.44,
+          "locations": [
+            {
+              "id": 2001,
+              "village": "Yadapura",
+              "latitude": 13.289332672172204,
+              "longitude": 76.20731001875755,
+              "susceptibility": 89.44,
+              "risk": "Very High"
+            },
+            {
+              "id": 9522,
+              "village": "Malekallu Tirupathi",
+              "latitude": 13.33856870731106,
+              "longitude": 76.27045531975358,
+              "susceptibility": 81.61,
+              "risk": "Very High"
+            },
+            {
+              "id": 24785,
+              "village": "Malekallu Tirupathi",
+              "latitude": 13.34187327384122,
+              "longitude": 76.27799230302745,
+              "susceptibility": 79.92,
+              "risk": "High"
+            },
+            {
+              "id": 20124,
+              "village": "Malekallu Tirupathi",
+              "latitude": 13.338400586483967,
+              "longitude": 76.27338943536931,
+              "susceptibility": 78.46,
+              "risk": "High"
+            },
+            {
+              "id": 15965,
+              "village": "Malekallu Tirupathi",
+              "latitude": 13.344830859018805,
+              "longitude": 76.2779293123211,
+              "susceptibility": 68.37,
+              "risk": "Moderate"
+            },
+            {
+              "id": 3186,
+              "village": "Malekallu Tirupathi",
+              "latitude": 13.341665112307592,
+              "longitude": 76.28155220402142,
+              "susceptibility": 65.65,
+              "risk": "Moderate"
+            },
+            {
+              "id": 1147,
+              "village": "Malekallu Tirupathi",
+              "latitude": 13.341949469061356,
+              "longitude": 76.28574512853427,
+              "susceptibility": 65.07,
+              "risk": "Moderate"
+            },
+            {
+              "id": 13261,
+              "village": "Yadapura",
+              "latitude": 13.303743997079245,
+              "longitude": 76.1986000768982,
+              "susceptibility": 62.46,
+              "risk": "Moderate"
+            },
+            {
+              "id": 10107,
+              "village": "Nagathihalli",
+              "latitude": 13.356273589636334,
+              "longitude": 76.26773635987871,
+              "susceptibility": 60.4,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "pincode": "573112",
+          "high_risk_points": 1,
+          "villages": [
+            "Anandanahalli"
+          ],
+          "maximum_susceptibility": 60.74,
+          "locations": [
+            {
+              "id": 1089,
+              "village": "Anandanahalli",
+              "latitude": 13.429660547751974,
+              "longitude": 76.27243794616675,
+              "susceptibility": 60.74,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "pincode": "573119",
+          "high_risk_points": 1,
+          "villages": [
+            "Chikkagandasi"
+          ],
+          "maximum_susceptibility": 68.45,
+          "locations": [
+            {
+              "id": 8861,
+              "village": "Chikkagandasi",
+              "latitude": 13.183340307707352,
+              "longitude": 76.3221169806544,
+              "susceptibility": 68.45,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "pincode": "573122",
+          "high_risk_points": 7,
+          "villages": [
+            "Doddenahalli",
+            "Govinapura",
+            "Haranahalli",
+            "Murundi",
+            "Vaderahalli"
+          ],
+          "maximum_susceptibility": 83.4,
+          "locations": [
+            {
+              "id": 18733,
+              "village": "Doddenahalli",
+              "latitude": 13.220929688113776,
+              "longitude": 76.21481429694195,
+              "susceptibility": 83.4,
+              "risk": "Very High"
+            },
+            {
+              "id": 16126,
+              "village": "Vaderahalli",
+              "latitude": 13.244974472748678,
+              "longitude": 76.19134720217765,
+              "susceptibility": 68.48,
+              "risk": "Moderate"
+            },
+            {
+              "id": 10930,
+              "village": "Haranahalli",
+              "latitude": 13.243127008132532,
+              "longitude": 76.22571978520858,
+              "susceptibility": 64.89,
+              "risk": "Moderate"
+            },
+            {
+              "id": 1006,
+              "village": "Murundi",
+              "latitude": 13.280485349238711,
+              "longitude": 76.20028314019022,
+              "susceptibility": 63.73,
+              "risk": "Moderate"
+            },
+            {
+              "id": 11244,
+              "village": "Vaderahalli",
+              "latitude": 13.250868081489948,
+              "longitude": 76.19008890186555,
+              "susceptibility": 63.59,
+              "risk": "Moderate"
+            },
+            {
+              "id": 8705,
+              "village": "Haranahalli",
+              "latitude": 13.247624774698464,
+              "longitude": 76.22979417934225,
+              "susceptibility": 63.51,
+              "risk": "Moderate"
+            },
+            {
+              "id": 17283,
+              "village": "Govinapura",
+              "latitude": 13.273593931957247,
+              "longitude": 76.19107380453511,
+              "susceptibility": 60.76,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "pincode": "573125",
+          "high_risk_points": 1,
+          "villages": [
+            "Tirupatihalli"
+          ],
+          "maximum_susceptibility": 63.71,
+          "locations": [
+            {
+              "id": 24314,
+              "village": "Tirupatihalli",
+              "latitude": 13.334907535411018,
+              "longitude": 76.13862935032448,
+              "susceptibility": 63.71,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "pincode": "573126",
+          "high_risk_points": 2,
+          "villages": [
+            "Chikkahalkuru"
+          ],
+          "maximum_susceptibility": 66.01,
+          "locations": [
+            {
+              "id": 14082,
+              "village": "Chikkahalkuru",
+              "latitude": 13.401839199642197,
+              "longitude": 76.33429716479317,
+              "susceptibility": 66.01,
+              "risk": "Moderate"
+            },
+            {
+              "id": 23205,
+              "village": "Chikkahalkuru",
+              "latitude": 13.396955229501222,
+              "longitude": 76.33581576142046,
+              "susceptibility": 64.99,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "pincode": "573162",
+          "high_risk_points": 6,
+          "villages": [
+            "Doddahatti",
+            "Kadehalli",
+            "Kommaraghatta",
+            "Ranjihalli"
+          ],
+          "maximum_susceptibility": 76.02,
+          "locations": [
+            {
+              "id": 13145,
+              "village": "Ranjihalli",
+              "latitude": 13.169710552832711,
+              "longitude": 76.20221750521614,
+              "susceptibility": 76.02,
+              "risk": "High"
+            },
+            {
+              "id": 5584,
+              "village": "Ranjihalli",
+              "latitude": 13.166158975704493,
+              "longitude": 76.20287634674543,
+              "susceptibility": 73.34,
+              "risk": "High"
+            },
+            {
+              "id": 13696,
+              "village": "Doddahatti",
+              "latitude": 13.183414442966978,
+              "longitude": 76.19484547639917,
+              "susceptibility": 72.43,
+              "risk": "High"
+            },
+            {
+              "id": 13570,
+              "village": "Kommaraghatta",
+              "latitude": 13.147530124712292,
+              "longitude": 76.16884098860045,
+              "susceptibility": 71.71,
+              "risk": "High"
+            },
+            {
+              "id": 10122,
+              "village": "Kadehalli",
+              "latitude": 13.178122957791038,
+              "longitude": 76.19228816706419,
+              "susceptibility": 69.99,
+              "risk": "Moderate"
+            },
+            {
+              "id": 10785,
+              "village": "Doddahatti",
+              "latitude": 13.185211056759814,
+              "longitude": 76.19180896114264,
+              "susceptibility": 68.37,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "pincode": "577182",
+          "high_risk_points": 1,
+          "villages": [
+            "Timlapura"
+          ],
+          "maximum_susceptibility": 79.22,
+          "locations": [
+            {
+              "id": 12995,
+              "village": "Timlapura",
+              "latitude": 13.47636406761706,
+              "longitude": 76.24402139009916,
+              "susceptibility": 79.22,
+              "risk": "High"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "taluk": "Belur",
+      "high_risk_points": 15,
+      "maximum_susceptibility": 79.14,
+      "villages": [
+        {
+          "village": "Adaguru",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 79.14,
+          "average_susceptibility": 79.14,
+          "pin_codes": [
+            "573219"
+          ],
+          "locations": [
+            {
+              "id": 11780,
+              "latitude": 13.161921676906026,
+              "longitude": 76.0773824192848,
+              "susceptibility": 79.14,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Devihalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 76.53,
+          "average_susceptibility": 76.53,
+          "pin_codes": [
+            "573216"
+          ],
+          "locations": [
+            {
+              "id": 6685,
+              "latitude": 13.170686278199751,
+              "longitude": 76.0288543673128,
+              "susceptibility": 76.53,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Hullenahalli",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 62.33,
+          "average_susceptibility": 61.67,
+          "pin_codes": [
+            "577146"
+          ],
+          "locations": [
+            {
+              "id": 18459,
+              "latitude": 13.227101817864874,
+              "longitude": 75.96463037650767,
+              "susceptibility": 62.33,
+              "risk": "Moderate"
+            },
+            {
+              "id": 17735,
+              "latitude": 13.241655697639438,
+              "longitude": 75.87953867147374,
+              "susceptibility": 61.02,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Kanakenahalli",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 70.38,
+          "average_susceptibility": 66.58,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 5085,
+              "latitude": 13.245591467513004,
+              "longitude": 76.07310833935026,
+              "susceptibility": 70.38,
+              "risk": "High"
+            },
+            {
+              "id": 19130,
+              "latitude": 13.244976475573264,
+              "longitude": 76.06852320937321,
+              "susceptibility": 62.77,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Kodihalli",
+          "high_risk_points": 3,
+          "maximum_susceptibility": 70.76,
+          "average_susceptibility": 64.08,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 19420,
+              "latitude": 13.150714656593916,
+              "longitude": 76.04506699085626,
+              "susceptibility": 70.76,
+              "risk": "High"
+            },
+            {
+              "id": 13372,
+              "latitude": 13.15428004835062,
+              "longitude": 76.04577677619933,
+              "susceptibility": 60.75,
+              "risk": "Moderate"
+            },
+            {
+              "id": 15497,
+              "latitude": 13.145472541801846,
+              "longitude": 76.0452403904165,
+              "susceptibility": 60.73,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Malasavara",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 61.63,
+          "average_susceptibility": 61.16,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 9155,
+              "latitude": 13.101861931989085,
+              "longitude": 75.73846687069066,
+              "susceptibility": 61.63,
+              "risk": "Moderate"
+            },
+            {
+              "id": 6880,
+              "latitude": 13.059873814845696,
+              "longitude": 75.7533569492988,
+              "susceptibility": 60.68,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Mayagondanahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 71.17,
+          "average_susceptibility": 71.17,
+          "pin_codes": [
+            "573121"
+          ],
+          "locations": [
+            {
+              "id": 22711,
+              "latitude": 13.242128166796316,
+              "longitude": 75.99673677895481,
+              "susceptibility": 71.17,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Nandagodanahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 63.66,
+          "average_susceptibility": 63.66,
+          "pin_codes": [
+            "573101"
+          ],
+          "locations": [
+            {
+              "id": 2278,
+              "latitude": 13.010080692505,
+              "longitude": 75.7666093921243,
+              "susceptibility": 63.66,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Narve",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 68.28,
+          "average_susceptibility": 68.28,
+          "pin_codes": [
+            "573101"
+          ],
+          "locations": [
+            {
+              "id": 12244,
+              "latitude": 13.008790086242804,
+              "longitude": 75.75939410878797,
+              "susceptibility": 68.28,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Siddapura",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 64.39,
+          "average_susceptibility": 64.39,
+          "pin_codes": [
+            "573121"
+          ],
+          "locations": [
+            {
+              "id": 20955,
+              "latitude": 13.18941542834532,
+              "longitude": 75.99194195463811,
+              "susceptibility": 64.39,
+              "risk": "Moderate"
+            }
+          ]
+        }
+      ],
+      "pin_codes": [
+        {
+          "pincode": "573101",
+          "high_risk_points": 2,
+          "villages": [
+            "Nandagodanahalli",
+            "Narve"
+          ],
+          "maximum_susceptibility": 68.28,
+          "locations": [
+            {
+              "id": 12244,
+              "village": "Narve",
+              "latitude": 13.008790086242804,
+              "longitude": 75.75939410878797,
+              "susceptibility": 68.28,
+              "risk": "Moderate"
+            },
+            {
+              "id": 2278,
+              "village": "Nandagodanahalli",
+              "latitude": 13.010080692505,
+              "longitude": 75.7666093921243,
+              "susceptibility": 63.66,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "pincode": "573121",
+          "high_risk_points": 2,
+          "villages": [
+            "Mayagondanahalli",
+            "Siddapura"
+          ],
+          "maximum_susceptibility": 71.17,
+          "locations": [
+            {
+              "id": 22711,
+              "village": "Mayagondanahalli",
+              "latitude": 13.242128166796316,
+              "longitude": 75.99673677895481,
+              "susceptibility": 71.17,
+              "risk": "High"
+            },
+            {
+              "id": 20955,
+              "village": "Siddapura",
+              "latitude": 13.18941542834532,
+              "longitude": 75.99194195463811,
+              "susceptibility": 64.39,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "pincode": "573216",
+          "high_risk_points": 1,
+          "villages": [
+            "Devihalli"
+          ],
+          "maximum_susceptibility": 76.53,
+          "locations": [
+            {
+              "id": 6685,
+              "village": "Devihalli",
+              "latitude": 13.170686278199751,
+              "longitude": 76.0288543673128,
+              "susceptibility": 76.53,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "pincode": "573219",
+          "high_risk_points": 1,
+          "villages": [
+            "Adaguru"
+          ],
+          "maximum_susceptibility": 79.14,
+          "locations": [
+            {
+              "id": 11780,
+              "village": "Adaguru",
+              "latitude": 13.161921676906026,
+              "longitude": 76.0773824192848,
+              "susceptibility": 79.14,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "pincode": "577146",
+          "high_risk_points": 2,
+          "villages": [
+            "Hullenahalli"
+          ],
+          "maximum_susceptibility": 62.33,
+          "locations": [
+            {
+              "id": 18459,
+              "village": "Hullenahalli",
+              "latitude": 13.227101817864874,
+              "longitude": 75.96463037650767,
+              "susceptibility": 62.33,
+              "risk": "Moderate"
+            },
+            {
+              "id": 17735,
+              "village": "Hullenahalli",
+              "latitude": 13.241655697639438,
+              "longitude": 75.87953867147374,
+              "susceptibility": 61.02,
+              "risk": "Moderate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "taluk": "Channarayapatna",
+      "high_risk_points": 1,
+      "maximum_susceptibility": 98.02,
+      "villages": [
+        {
+          "village": "Maraguru",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 98.02,
+          "average_susceptibility": 98.02,
+          "pin_codes": [
+            "573111"
+          ],
+          "locations": [
+            {
+              "id": 15152,
+              "latitude": 13.072259021758155,
+              "longitude": 76.38752569915458,
+              "susceptibility": 98.02,
+              "risk": "Very High"
+            }
+          ]
+        }
+      ],
+      "pin_codes": [
+        {
+          "pincode": "573111",
+          "high_risk_points": 1,
+          "villages": [
+            "Maraguru"
+          ],
+          "maximum_susceptibility": 98.02,
+          "locations": [
+            {
+              "id": 15152,
+              "village": "Maraguru",
+              "latitude": 13.072259021758155,
+              "longitude": 76.38752569915458,
+              "susceptibility": 98.02,
+              "risk": "Very High"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "taluk": "Hassan",
+      "high_risk_points": 25,
+      "maximum_susceptibility": 94.53,
+      "villages": [
+        {
+          "village": "Aidallakaval",
+          "high_risk_points": 4,
+          "maximum_susceptibility": 80.97,
+          "average_susceptibility": 70.26,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 4596,
+              "latitude": 13.204660587618667,
+              "longitude": 76.13125953671313,
+              "susceptibility": 80.97,
+              "risk": "Very High"
+            },
+            {
+              "id": 11477,
+              "latitude": 13.18515595270723,
+              "longitude": 76.12165524583699,
+              "susceptibility": 72.81,
+              "risk": "High"
+            },
+            {
+              "id": 14823,
+              "latitude": 13.206942750179882,
+              "longitude": 76.1335647901552,
+              "susceptibility": 64.05,
+              "risk": "Moderate"
+            },
+            {
+              "id": 1396,
+              "latitude": 13.201785347988247,
+              "longitude": 76.12559453391425,
+              "susceptibility": 63.21,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Anjaneyapura",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 69.21,
+          "average_susceptibility": 69.21,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 3104,
+              "latitude": 12.8714150302692,
+              "longitude": 76.05536569304293,
+              "susceptibility": 69.21,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Ballenahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 60.41,
+          "average_susceptibility": 60.41,
+          "pin_codes": [
+            "573219"
+          ],
+          "locations": [
+            {
+              "id": 7890,
+              "latitude": 13.113382793006473,
+              "longitude": 76.10078172437537,
+              "susceptibility": 60.41,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Bandihalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 77.37,
+          "average_susceptibility": 77.37,
+          "pin_codes": [
+            "573118"
+          ],
+          "locations": [
+            {
+              "id": 23158,
+              "latitude": 13.00602355676616,
+              "longitude": 76.23480019291385,
+              "susceptibility": 77.37,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Brahmadevarahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 67.13,
+          "average_susceptibility": 67.13,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 22765,
+              "latitude": 13.185504087741664,
+              "longitude": 76.13897625891468,
+              "susceptibility": 67.13,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Chikkagaddavalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 60.24,
+          "average_susceptibility": 60.24,
+          "pin_codes": [
+            "573216"
+          ],
+          "locations": [
+            {
+              "id": 18341,
+              "latitude": 13.112754694769771,
+              "longitude": 76.0335846313899,
+              "susceptibility": 60.24,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Kadadaravalli",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 90.64,
+          "average_susceptibility": 86.47,
+          "pin_codes": [
+            "573219"
+          ],
+          "locations": [
+            {
+              "id": 19433,
+              "latitude": 13.104710158583565,
+              "longitude": 76.04695262610745,
+              "susceptibility": 90.64,
+              "risk": "Very High"
+            },
+            {
+              "id": 2838,
+              "latitude": 13.108608218367545,
+              "longitude": 76.04492904820604,
+              "susceptibility": 82.3,
+              "risk": "Very High"
+            }
+          ]
+        },
+        {
+          "village": "Kattaya Kaval",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 60.73,
+          "average_susceptibility": 60.73,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 19773,
+              "latitude": 12.884362248520311,
+              "longitude": 76.07883398050564,
+              "susceptibility": 60.73,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Kelavatti",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 67.62,
+          "average_susceptibility": 67.62,
+          "pin_codes": [
+            "573219"
+          ],
+          "locations": [
+            {
+              "id": 13862,
+              "latitude": 13.135187863282054,
+              "longitude": 76.11521105150622,
+              "susceptibility": 67.62,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Kondajji",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 79.58,
+          "average_susceptibility": 79.58,
+          "pin_codes": [
+            "573219"
+          ],
+          "locations": [
+            {
+              "id": 14891,
+              "latitude": 13.117903074799637,
+              "longitude": 76.0487907743514,
+              "susceptibility": 79.58,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Malladevapura",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 61.55,
+          "average_susceptibility": 61.55,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 4879,
+              "latitude": 12.852954258032868,
+              "longitude": 76.1405659265289,
+              "susceptibility": 61.55,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Mudigere",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 94.53,
+          "average_susceptibility": 94.53,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 16056,
+              "latitude": 13.090390657722155,
+              "longitude": 76.23840046474974,
+              "susceptibility": 94.53,
+              "risk": "Very High"
+            }
+          ]
+        },
+        {
+          "village": "Nitturu",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 72.91,
+          "average_susceptibility": 72.91,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 15851,
+              "latitude": 13.182574980543333,
+              "longitude": 76.11694072871957,
+              "susceptibility": 72.91,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Padumanahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 80.82,
+          "average_susceptibility": 80.82,
+          "pin_codes": [
+            "573120"
+          ],
+          "locations": [
+            {
+              "id": 7355,
+              "latitude": 12.852711547339307,
+              "longitude": 76.06169385080909,
+              "susceptibility": 80.82,
+              "risk": "Very High"
+            }
+          ]
+        },
+        {
+          "village": "Puradamma",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 60.21,
+          "average_susceptibility": 60.21,
+          "pin_codes": [
+            "573219"
+          ],
+          "locations": [
+            {
+              "id": 15613,
+              "latitude": 13.160440918678576,
+              "longitude": 76.09574840073057,
+              "susceptibility": 60.21,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Salagame",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 82.18,
+          "average_susceptibility": 82.18,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 9569,
+              "latitude": 13.075316624580251,
+              "longitude": 76.07454533968806,
+              "susceptibility": 82.18,
+              "risk": "Very High"
+            }
+          ]
+        },
+        {
+          "village": "Ubbenahalli",
+          "high_risk_points": 3,
+          "maximum_susceptibility": 76.22,
+          "average_susceptibility": 72.96,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 2797,
+              "latitude": 13.153729990374146,
+              "longitude": 76.15234213082368,
+              "susceptibility": 76.22,
+              "risk": "High"
+            },
+            {
+              "id": 13687,
+              "latitude": 13.146162295373683,
+              "longitude": 76.16350715847345,
+              "susceptibility": 73.59,
+              "risk": "High"
+            },
+            {
+              "id": 17778,
+              "latitude": 13.164310634496688,
+              "longitude": 76.14819399352851,
+              "susceptibility": 69.08,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Yalagunda",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 63.6,
+          "average_susceptibility": 63.6,
+          "pin_codes": [
+            "573219"
+          ],
+          "locations": [
+            {
+              "id": 22000,
+              "latitude": 13.13819304487284,
+              "longitude": 76.12102561836971,
+              "susceptibility": 63.6,
+              "risk": "Moderate"
+            }
+          ]
+        }
+      ],
+      "pin_codes": [
+        {
+          "pincode": "573118",
+          "high_risk_points": 1,
+          "villages": [
+            "Bandihalli"
+          ],
+          "maximum_susceptibility": 77.37,
+          "locations": [
+            {
+              "id": 23158,
+              "village": "Bandihalli",
+              "latitude": 13.00602355676616,
+              "longitude": 76.23480019291385,
+              "susceptibility": 77.37,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "pincode": "573120",
+          "high_risk_points": 1,
+          "villages": [
+            "Padumanahalli"
+          ],
+          "maximum_susceptibility": 80.82,
+          "locations": [
+            {
+              "id": 7355,
+              "village": "Padumanahalli",
+              "latitude": 12.852711547339307,
+              "longitude": 76.06169385080909,
+              "susceptibility": 80.82,
+              "risk": "Very High"
+            }
+          ]
+        },
+        {
+          "pincode": "573216",
+          "high_risk_points": 1,
+          "villages": [
+            "Chikkagaddavalli"
+          ],
+          "maximum_susceptibility": 60.24,
+          "locations": [
+            {
+              "id": 18341,
+              "village": "Chikkagaddavalli",
+              "latitude": 13.112754694769771,
+              "longitude": 76.0335846313899,
+              "susceptibility": 60.24,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "pincode": "573219",
+          "high_risk_points": 7,
+          "villages": [
+            "Ballenahalli",
+            "Kadadaravalli",
+            "Kelavatti",
+            "Kondajji",
+            "Puradamma",
+            "Yalagunda"
+          ],
+          "maximum_susceptibility": 90.64,
+          "locations": [
+            {
+              "id": 19433,
+              "village": "Kadadaravalli",
+              "latitude": 13.104710158583565,
+              "longitude": 76.04695262610745,
+              "susceptibility": 90.64,
+              "risk": "Very High"
+            },
+            {
+              "id": 2838,
+              "village": "Kadadaravalli",
+              "latitude": 13.108608218367545,
+              "longitude": 76.04492904820604,
+              "susceptibility": 82.3,
+              "risk": "Very High"
+            },
+            {
+              "id": 14891,
+              "village": "Kondajji",
+              "latitude": 13.117903074799637,
+              "longitude": 76.0487907743514,
+              "susceptibility": 79.58,
+              "risk": "High"
+            },
+            {
+              "id": 13862,
+              "village": "Kelavatti",
+              "latitude": 13.135187863282054,
+              "longitude": 76.11521105150622,
+              "susceptibility": 67.62,
+              "risk": "Moderate"
+            },
+            {
+              "id": 22000,
+              "village": "Yalagunda",
+              "latitude": 13.13819304487284,
+              "longitude": 76.12102561836971,
+              "susceptibility": 63.6,
+              "risk": "Moderate"
+            },
+            {
+              "id": 7890,
+              "village": "Ballenahalli",
+              "latitude": 13.113382793006473,
+              "longitude": 76.10078172437537,
+              "susceptibility": 60.41,
+              "risk": "Moderate"
+            },
+            {
+              "id": 15613,
+              "village": "Puradamma",
+              "latitude": 13.160440918678576,
+              "longitude": 76.09574840073057,
+              "susceptibility": 60.21,
+              "risk": "Moderate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "taluk": "Holenarasipura",
+      "high_risk_points": 1,
+      "maximum_susceptibility": 64.48,
+      "villages": [
+        {
+          "village": "Mangalapura",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 64.48,
+          "average_susceptibility": 64.48,
+          "pin_codes": [
+            "573211"
+          ],
+          "locations": [
+            {
+              "id": 24480,
+              "latitude": 12.78596402346754,
+              "longitude": 76.26854882113133,
+              "susceptibility": 64.48,
+              "risk": "Moderate"
+            }
+          ]
+        }
+      ],
+      "pin_codes": [
+        {
+          "pincode": "573211",
+          "high_risk_points": 1,
+          "villages": [
+            "Mangalapura"
+          ],
+          "maximum_susceptibility": 64.48,
+          "locations": [
+            {
+              "id": 24480,
+              "village": "Mangalapura",
+              "latitude": 12.78596402346754,
+              "longitude": 76.26854882113133,
+              "susceptibility": 64.48,
+              "risk": "Moderate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "taluk": "Sakleshpur",
+      "high_risk_points": 495,
+      "maximum_susceptibility": 99.71,
+      "villages": [
+        {
+          "village": "Achchanahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 61.24,
+          "average_susceptibility": 61.24,
+          "pin_codes": [
+            "573165"
+          ],
+          "locations": [
+            {
+              "id": 22763,
+              "latitude": 12.995993645457952,
+              "longitude": 75.66886371722816,
+              "susceptibility": 61.24,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Agani",
+          "high_risk_points": 7,
+          "maximum_susceptibility": 86.56,
+          "average_susceptibility": 73.7,
+          "pin_codes": [
+            "573165"
+          ],
+          "locations": [
+            {
+              "id": 7390,
+              "latitude": 12.930938800401472,
+              "longitude": 75.66483400832355,
+              "susceptibility": 86.56,
+              "risk": "Very High"
+            },
+            {
+              "id": 21199,
+              "latitude": 12.965112454051088,
+              "longitude": 75.66892113816331,
+              "susceptibility": 81.17,
+              "risk": "Very High"
+            },
+            {
+              "id": 8477,
+              "latitude": 12.939053296291249,
+              "longitude": 75.6703424555945,
+              "susceptibility": 80.91,
+              "risk": "Very High"
+            },
+            {
+              "id": 13364,
+              "latitude": 12.941666289088545,
+              "longitude": 75.6685682897474,
+              "susceptibility": 78.33,
+              "risk": "High"
+            },
+            {
+              "id": 18612,
+              "latitude": 12.970071036223125,
+              "longitude": 75.67240683582928,
+              "susceptibility": 65.64,
+              "risk": "Moderate"
+            },
+            {
+              "id": 20647,
+              "latitude": 12.938860059204654,
+              "longitude": 75.65731118466815,
+              "susceptibility": 62.07,
+              "risk": "Moderate"
+            },
+            {
+              "id": 24300,
+              "latitude": 12.930938089192926,
+              "longitude": 75.6729615597046,
+              "susceptibility": 61.23,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Arani",
+          "high_risk_points": 37,
+          "maximum_susceptibility": 99.39,
+          "average_susceptibility": 74.62,
+          "pin_codes": [
+            "573123"
+          ],
+          "locations": [
+            {
+              "id": 17504,
+              "latitude": 12.710340004567264,
+              "longitude": 75.69438802197257,
+              "susceptibility": 99.39,
+              "risk": "Very High"
+            },
+            {
+              "id": 21589,
+              "latitude": 12.712434900198463,
+              "longitude": 75.69083564248677,
+              "susceptibility": 96.18,
+              "risk": "Very High"
+            },
+            {
+              "id": 17411,
+              "latitude": 12.747222796211156,
+              "longitude": 75.6973206864725,
+              "susceptibility": 92.08,
+              "risk": "Very High"
+            },
+            {
+              "id": 4714,
+              "latitude": 12.71568781745774,
+              "longitude": 75.68061048265223,
+              "susceptibility": 91.79,
+              "risk": "Very High"
+            },
+            {
+              "id": 15893,
+              "latitude": 12.70776326185674,
+              "longitude": 75.70598485145116,
+              "susceptibility": 90.04,
+              "risk": "Very High"
+            },
+            {
+              "id": 20900,
+              "latitude": 12.719790468985284,
+              "longitude": 75.70066318819336,
+              "susceptibility": 87.0,
+              "risk": "Very High"
+            },
+            {
+              "id": 8059,
+              "latitude": 12.707900109214528,
+              "longitude": 75.67343986887529,
+              "susceptibility": 85.68,
+              "risk": "Very High"
+            },
+            {
+              "id": 15787,
+              "latitude": 12.704149251990534,
+              "longitude": 75.68558160722021,
+              "susceptibility": 83.92,
+              "risk": "Very High"
+            },
+            {
+              "id": 21063,
+              "latitude": 12.715953573777533,
+              "longitude": 75.68691986514504,
+              "susceptibility": 81.63,
+              "risk": "Very High"
+            },
+            {
+              "id": 15131,
+              "latitude": 12.709582867963716,
+              "longitude": 75.67639196904942,
+              "susceptibility": 79.78,
+              "risk": "High"
+            },
+            {
+              "id": 5630,
+              "latitude": 12.713593585440114,
+              "longitude": 75.6850798429898,
+              "susceptibility": 78.06,
+              "risk": "High"
+            },
+            {
+              "id": 21945,
+              "latitude": 12.7219296146438,
+              "longitude": 75.68744937044728,
+              "susceptibility": 77.44,
+              "risk": "High"
+            },
+            {
+              "id": 21281,
+              "latitude": 12.701388873517962,
+              "longitude": 75.68883742980739,
+              "susceptibility": 77.19,
+              "risk": "High"
+            },
+            {
+              "id": 23348,
+              "latitude": 12.70746044692349,
+              "longitude": 75.6851697552315,
+              "susceptibility": 76.28,
+              "risk": "High"
+            },
+            {
+              "id": 13444,
+              "latitude": 12.731440812751943,
+              "longitude": 75.69751214186499,
+              "susceptibility": 74.73,
+              "risk": "High"
+            },
+            {
+              "id": 20512,
+              "latitude": 12.707753061249043,
+              "longitude": 75.6934530286224,
+              "susceptibility": 74.53,
+              "risk": "High"
+            },
+            {
+              "id": 1996,
+              "latitude": 12.734869712003611,
+              "longitude": 75.69684403754091,
+              "susceptibility": 73.94,
+              "risk": "High"
+            },
+            {
+              "id": 3905,
+              "latitude": 12.727747749474496,
+              "longitude": 75.68677602655511,
+              "susceptibility": 73.68,
+              "risk": "High"
+            },
+            {
+              "id": 475,
+              "latitude": 12.71252261018054,
+              "longitude": 75.67557486490945,
+              "susceptibility": 73.5,
+              "risk": "High"
+            },
+            {
+              "id": 11392,
+              "latitude": 12.725374506179795,
+              "longitude": 75.69117097222312,
+              "susceptibility": 72.54,
+              "risk": "High"
+            },
+            {
+              "id": 2294,
+              "latitude": 12.724075051234676,
+              "longitude": 75.70827145205229,
+              "susceptibility": 72.23,
+              "risk": "High"
+            },
+            {
+              "id": 12975,
+              "latitude": 12.749349334156118,
+              "longitude": 75.69276894530887,
+              "susceptibility": 72.08,
+              "risk": "High"
+            },
+            {
+              "id": 1608,
+              "latitude": 12.728489404850473,
+              "longitude": 75.698439823321,
+              "susceptibility": 70.37,
+              "risk": "High"
+            },
+            {
+              "id": 4086,
+              "latitude": 12.70574069637506,
+              "longitude": 75.69786322602293,
+              "susceptibility": 69.99,
+              "risk": "Moderate"
+            },
+            {
+              "id": 19751,
+              "latitude": 12.724848808893023,
+              "longitude": 75.6884519725685,
+              "susceptibility": 67.36,
+              "risk": "Moderate"
+            },
+            {
+              "id": 5779,
+              "latitude": 12.70667392485526,
+              "longitude": 75.68820404817771,
+              "susceptibility": 66.54,
+              "risk": "Moderate"
+            },
+            {
+              "id": 20422,
+              "latitude": 12.741784424343134,
+              "longitude": 75.69618082381763,
+              "susceptibility": 66.01,
+              "risk": "Moderate"
+            },
+            {
+              "id": 12665,
+              "latitude": 12.713219456973585,
+              "longitude": 75.70151388808912,
+              "susceptibility": 65.78,
+              "risk": "Moderate"
+            },
+            {
+              "id": 20215,
+              "latitude": 12.74300244691061,
+              "longitude": 75.69342251275437,
+              "susceptibility": 65.25,
+              "risk": "Moderate"
+            },
+            {
+              "id": 9851,
+              "latitude": 12.725771960350205,
+              "longitude": 75.71165999136002,
+              "susceptibility": 64.36,
+              "risk": "Moderate"
+            },
+            {
+              "id": 15953,
+              "latitude": 12.754288765795442,
+              "longitude": 75.68644056207296,
+              "susceptibility": 64.27,
+              "risk": "Moderate"
+            },
+            {
+              "id": 21583,
+              "latitude": 12.73059230006869,
+              "longitude": 75.67191928820954,
+              "susceptibility": 64.08,
+              "risk": "Moderate"
+            },
+            {
+              "id": 9544,
+              "latitude": 12.711787581754692,
+              "longitude": 75.70987670013612,
+              "susceptibility": 63.79,
+              "risk": "Moderate"
+            },
+            {
+              "id": 7617,
+              "latitude": 12.718652911827498,
+              "longitude": 75.71119573297318,
+              "susceptibility": 63.39,
+              "risk": "Moderate"
+            },
+            {
+              "id": 14941,
+              "latitude": 12.74283968598532,
+              "longitude": 75.70178811210185,
+              "susceptibility": 62.81,
+              "risk": "Moderate"
+            },
+            {
+              "id": 543,
+              "latitude": 12.719882480801155,
+              "longitude": 75.69704296944934,
+              "susceptibility": 62.76,
+              "risk": "Moderate"
+            },
+            {
+              "id": 1574,
+              "latitude": 12.733756188087169,
+              "longitude": 75.67202294890397,
+              "susceptibility": 60.43,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Attihalli",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 63.15,
+          "average_susceptibility": 62.37,
+          "pin_codes": [
+            "573123"
+          ],
+          "locations": [
+            {
+              "id": 23422,
+              "latitude": 12.766482535100875,
+              "longitude": 75.72641351617625,
+              "susceptibility": 63.15,
+              "risk": "Moderate"
+            },
+            {
+              "id": 20393,
+              "latitude": 12.783661755843786,
+              "longitude": 75.7210740371104,
+              "susceptibility": 61.59,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Bagi",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 75.54,
+          "average_susceptibility": 75.54,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 3746,
+              "latitude": 12.959260071502444,
+              "longitude": 75.88334703263736,
+              "susceptibility": 75.54,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Bannahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 77.58,
+          "average_susceptibility": 77.58,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 10708,
+              "latitude": 12.816302117679378,
+              "longitude": 75.7837813173479,
+              "susceptibility": 77.58,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Bilisare",
+          "high_risk_points": 16,
+          "maximum_susceptibility": 93.44,
+          "average_susceptibility": 76.03,
+          "pin_codes": [
+            "573165",
+            "574132"
+          ],
+          "locations": [
+            {
+              "id": 18606,
+              "latitude": 12.960020795596195,
+              "longitude": 75.6553248399979,
+              "susceptibility": 93.44,
+              "risk": "Very High"
+            },
+            {
+              "id": 2719,
+              "latitude": 12.950504839018024,
+              "longitude": 75.638841229144,
+              "susceptibility": 89.45,
+              "risk": "Very High"
+            },
+            {
+              "id": 8752,
+              "latitude": 12.94246061997943,
+              "longitude": 75.63655051840026,
+              "susceptibility": 86.84,
+              "risk": "Very High"
+            },
+            {
+              "id": 17405,
+              "latitude": 12.949203552541633,
+              "longitude": 75.65245574334413,
+              "susceptibility": 84.98,
+              "risk": "Very High"
+            },
+            {
+              "id": 16505,
+              "latitude": 12.95626959879272,
+              "longitude": 75.63653254169189,
+              "susceptibility": 84.15,
+              "risk": "Very High"
+            },
+            {
+              "id": 22673,
+              "latitude": 12.964529417229398,
+              "longitude": 75.6387494871464,
+              "susceptibility": 82.46,
+              "risk": "Very High"
+            },
+            {
+              "id": 11129,
+              "latitude": 12.953751626199042,
+              "longitude": 75.63421294014985,
+              "susceptibility": 79.88,
+              "risk": "High"
+            },
+            {
+              "id": 18543,
+              "latitude": 12.961580316986096,
+              "longitude": 75.65297518104785,
+              "susceptibility": 79.61,
+              "risk": "High"
+            },
+            {
+              "id": 7581,
+              "latitude": 12.967443677437272,
+              "longitude": 75.64624583168441,
+              "susceptibility": 71.28,
+              "risk": "High"
+            },
+            {
+              "id": 13611,
+              "latitude": 12.945854961425397,
+              "longitude": 75.63544705785277,
+              "susceptibility": 71.19,
+              "risk": "High"
+            },
+            {
+              "id": 15846,
+              "latitude": 12.953137766229617,
+              "longitude": 75.64055351309379,
+              "susceptibility": 70.7,
+              "risk": "High"
+            },
+            {
+              "id": 13099,
+              "latitude": 12.959523014987804,
+              "longitude": 75.64673209339745,
+              "susceptibility": 68.83,
+              "risk": "Moderate"
+            },
+            {
+              "id": 9377,
+              "latitude": 12.956505616000587,
+              "longitude": 75.64249015827929,
+              "susceptibility": 66.25,
+              "risk": "Moderate"
+            },
+            {
+              "id": 3712,
+              "latitude": 12.956194324378249,
+              "longitude": 75.6618463438733,
+              "susceptibility": 64.17,
+              "risk": "Moderate"
+            },
+            {
+              "id": 11005,
+              "latitude": 12.93994305712749,
+              "longitude": 75.63496707700534,
+              "susceptibility": 63.17,
+              "risk": "Moderate"
+            },
+            {
+              "id": 12041,
+              "latitude": 12.971029722441616,
+              "longitude": 75.65339281912291,
+              "susceptibility": 60.07,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Birahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 62.57,
+          "average_susceptibility": 62.57,
+          "pin_codes": [
+            "573173"
+          ],
+          "locations": [
+            {
+              "id": 14420,
+              "latitude": 12.74121930546582,
+              "longitude": 75.79915390326305,
+              "susceptibility": 62.57,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Bobbanahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 69.62,
+          "average_susceptibility": 69.62,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 24416,
+              "latitude": 12.814857690625685,
+              "longitude": 75.76065415257406,
+              "susceptibility": 69.62,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Bommanakere",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 78.32,
+          "average_susceptibility": 78.32,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 16494,
+              "latitude": 12.801953604118491,
+              "longitude": 75.76619475411948,
+              "susceptibility": 78.32,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Boranamane",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 61.68,
+          "average_susceptibility": 61.68,
+          "pin_codes": [
+            "573123"
+          ],
+          "locations": [
+            {
+              "id": 5122,
+              "latitude": 12.74105369219676,
+              "longitude": 75.71078147831062,
+              "susceptibility": 61.68,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Byakaravalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 62.1,
+          "average_susceptibility": 62.1,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 465,
+              "latitude": 12.872269315096087,
+              "longitude": 75.78280771443974,
+              "susceptibility": 62.1,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Changadihalli",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 72.21,
+          "average_susceptibility": 69.5,
+          "pin_codes": [
+            "573173"
+          ],
+          "locations": [
+            {
+              "id": 5477,
+              "latitude": 12.711512142549584,
+              "longitude": 75.82328341115345,
+              "susceptibility": 72.21,
+              "risk": "High"
+            },
+            {
+              "id": 11164,
+              "latitude": 12.7061285252641,
+              "longitude": 75.83261750080113,
+              "susceptibility": 66.79,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Chinnahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 81.98,
+          "average_susceptibility": 81.98,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 9693,
+              "latitude": 12.826264701016267,
+              "longitude": 75.73617688544054,
+              "susceptibility": 81.98,
+              "risk": "Very High"
+            }
+          ]
+        },
+        {
+          "village": "Devaladakere",
+          "high_risk_points": 3,
+          "maximum_susceptibility": 78.63,
+          "average_susceptibility": 68.18,
+          "pin_codes": [
+            "574132"
+          ],
+          "locations": [
+            {
+              "id": 10645,
+              "latitude": 12.973269899885452,
+              "longitude": 75.62882596619274,
+              "susceptibility": 78.63,
+              "risk": "High"
+            },
+            {
+              "id": 21026,
+              "latitude": 12.9758256578253,
+              "longitude": 75.6228371798042,
+              "susceptibility": 65.05,
+              "risk": "Moderate"
+            },
+            {
+              "id": 24533,
+              "latitude": 12.980053430721364,
+              "longitude": 75.62464977951767,
+              "susceptibility": 60.86,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Doddakunduru Koppalu",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 60.92,
+          "average_susceptibility": 60.48,
+          "pin_codes": [
+            "573173"
+          ],
+          "locations": [
+            {
+              "id": 20516,
+              "latitude": 12.751231862667876,
+              "longitude": 75.82323507922477,
+              "susceptibility": 60.92,
+              "risk": "Moderate"
+            },
+            {
+              "id": 17399,
+              "latitude": 12.750534030471954,
+              "longitude": 75.8259202057748,
+              "susceptibility": 60.05,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Donigal",
+          "high_risk_points": 5,
+          "maximum_susceptibility": 94.82,
+          "average_susceptibility": 71.11,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 2554,
+              "latitude": 12.923886210805012,
+              "longitude": 75.74173590282163,
+              "susceptibility": 94.82,
+              "risk": "Very High"
+            },
+            {
+              "id": 1699,
+              "latitude": 12.90831580037624,
+              "longitude": 75.7415209569519,
+              "susceptibility": 70.81,
+              "risk": "High"
+            },
+            {
+              "id": 22303,
+              "latitude": 12.91773864336812,
+              "longitude": 75.74510427648336,
+              "susceptibility": 66.31,
+              "risk": "Moderate"
+            },
+            {
+              "id": 2021,
+              "latitude": 12.924868594597488,
+              "longitude": 75.74978417309153,
+              "susceptibility": 63.43,
+              "risk": "Moderate"
+            },
+            {
+              "id": 7537,
+              "latitude": 12.909925587802364,
+              "longitude": 75.73613916989363,
+              "susceptibility": 60.2,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Duddavalli",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 66.18,
+          "average_susceptibility": 64.55,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 20149,
+              "latitude": 12.810715135170058,
+              "longitude": 75.70845501922145,
+              "susceptibility": 66.18,
+              "risk": "Moderate"
+            },
+            {
+              "id": 16671,
+              "latitude": 12.804306193015,
+              "longitude": 75.70685389838049,
+              "susceptibility": 62.92,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Goddu",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 62.25,
+          "average_susceptibility": 61.46,
+          "pin_codes": [
+            "573123"
+          ],
+          "locations": [
+            {
+              "id": 10946,
+              "latitude": 12.711032919577455,
+              "longitude": 75.78118862556364,
+              "susceptibility": 62.25,
+              "risk": "Moderate"
+            },
+            {
+              "id": 14570,
+              "latitude": 12.719895102762866,
+              "longitude": 75.77580068119248,
+              "susceptibility": 60.67,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Gulagalale",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 80.73,
+          "average_susceptibility": 80.73,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 18705,
+              "latitude": 12.967541248357549,
+              "longitude": 75.84255392506283,
+              "susceptibility": 80.73,
+              "risk": "Very High"
+            }
+          ]
+        },
+        {
+          "village": "Gundya",
+          "high_risk_points": 29,
+          "maximum_susceptibility": 97.67,
+          "average_susceptibility": 78.91,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 14903,
+              "latitude": 12.832971366952917,
+              "longitude": 75.6281423828822,
+              "susceptibility": 97.67,
+              "risk": "Very High"
+            },
+            {
+              "id": 12407,
+              "latitude": 12.81943670434679,
+              "longitude": 75.61827057272758,
+              "susceptibility": 96.54,
+              "risk": "Very High"
+            },
+            {
+              "id": 12046,
+              "latitude": 12.819788725907854,
+              "longitude": 75.62122723857503,
+              "susceptibility": 96.34,
+              "risk": "Very High"
+            },
+            {
+              "id": 3776,
+              "latitude": 12.831297211213633,
+              "longitude": 75.62476699686947,
+              "susceptibility": 94.5,
+              "risk": "Very High"
+            },
+            {
+              "id": 7081,
+              "latitude": 12.824039815849712,
+              "longitude": 75.63088056054073,
+              "susceptibility": 92.64,
+              "risk": "Very High"
+            },
+            {
+              "id": 8058,
+              "latitude": 12.821253245657624,
+              "longitude": 75.62846604796185,
+              "susceptibility": 89.57,
+              "risk": "Very High"
+            },
+            {
+              "id": 979,
+              "latitude": 12.82205242846768,
+              "longitude": 75.6385835724631,
+              "susceptibility": 89.34,
+              "risk": "Very High"
+            },
+            {
+              "id": 9498,
+              "latitude": 12.830703925712742,
+              "longitude": 75.64665474883002,
+              "susceptibility": 88.1,
+              "risk": "Very High"
+            },
+            {
+              "id": 2687,
+              "latitude": 12.82293421528116,
+              "longitude": 75.62193353285397,
+              "susceptibility": 87.77,
+              "risk": "Very High"
+            },
+            {
+              "id": 22388,
+              "latitude": 12.829864838554656,
+              "longitude": 75.65349797505371,
+              "susceptibility": 85.94,
+              "risk": "Very High"
+            },
+            {
+              "id": 19580,
+              "latitude": 12.836210321212723,
+              "longitude": 75.6230442379246,
+              "susceptibility": 83.99,
+              "risk": "Very High"
+            },
+            {
+              "id": 2403,
+              "latitude": 12.832438496046787,
+              "longitude": 75.63324324272541,
+              "susceptibility": 81.11,
+              "risk": "Very High"
+            },
+            {
+              "id": 59,
+              "latitude": 12.829498928666633,
+              "longitude": 75.62250614480021,
+              "susceptibility": 80.88,
+              "risk": "Very High"
+            },
+            {
+              "id": 19129,
+              "latitude": 12.833448368619877,
+              "longitude": 75.65645385782997,
+              "susceptibility": 79.84,
+              "risk": "High"
+            },
+            {
+              "id": 10231,
+              "latitude": 12.837969057612774,
+              "longitude": 75.64858622110337,
+              "susceptibility": 78.26,
+              "risk": "High"
+            },
+            {
+              "id": 5704,
+              "latitude": 12.835984338926702,
+              "longitude": 75.63676471743831,
+              "susceptibility": 74.22,
+              "risk": "High"
+            },
+            {
+              "id": 4379,
+              "latitude": 12.824329919774447,
+              "longitude": 75.65027506001486,
+              "susceptibility": 73.6,
+              "risk": "High"
+            },
+            {
+              "id": 982,
+              "latitude": 12.836744511367622,
+              "longitude": 75.64253258427571,
+              "susceptibility": 72.18,
+              "risk": "High"
+            },
+            {
+              "id": 825,
+              "latitude": 12.827784508862072,
+              "longitude": 75.64671958334017,
+              "susceptibility": 71.52,
+              "risk": "High"
+            },
+            {
+              "id": 17107,
+              "latitude": 12.824647371135285,
+              "longitude": 75.66192987664151,
+              "susceptibility": 69.66,
+              "risk": "Moderate"
+            },
+            {
+              "id": 14944,
+              "latitude": 12.817366755266889,
+              "longitude": 75.62258680140046,
+              "susceptibility": 69.63,
+              "risk": "Moderate"
+            },
+            {
+              "id": 10814,
+              "latitude": 12.832956308553737,
+              "longitude": 75.6174690347924,
+              "susceptibility": 69.54,
+              "risk": "Moderate"
+            },
+            {
+              "id": 4007,
+              "latitude": 12.822997257858288,
+              "longitude": 75.66656734750013,
+              "susceptibility": 69.11,
+              "risk": "Moderate"
+            },
+            {
+              "id": 20430,
+              "latitude": 12.818639223028825,
+              "longitude": 75.66790786440765,
+              "susceptibility": 68.91,
+              "risk": "Moderate"
+            },
+            {
+              "id": 10955,
+              "latitude": 12.82625162164696,
+              "longitude": 75.62507334054509,
+              "susceptibility": 68.35,
+              "risk": "Moderate"
+            },
+            {
+              "id": 13894,
+              "latitude": 12.835904952495024,
+              "longitude": 75.64671823174184,
+              "susceptibility": 67.4,
+              "risk": "Moderate"
+            },
+            {
+              "id": 13134,
+              "latitude": 12.828117258891115,
+              "longitude": 75.66359752270237,
+              "susceptibility": 65.36,
+              "risk": "Moderate"
+            },
+            {
+              "id": 16231,
+              "latitude": 12.826750547043828,
+              "longitude": 75.61827237129961,
+              "susceptibility": 65.3,
+              "risk": "Moderate"
+            },
+            {
+              "id": 19922,
+              "latitude": 12.837903714004495,
+              "longitude": 75.65388613685174,
+              "susceptibility": 61.21,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Hanubalu",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 70.01,
+          "average_susceptibility": 70.01,
+          "pin_codes": [
+            "573165"
+          ],
+          "locations": [
+            {
+              "id": 7680,
+              "latitude": 13.005990149486877,
+              "longitude": 75.70076958755766,
+              "susceptibility": 70.01,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Heggadde",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 84.89,
+          "average_susceptibility": 80.9,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 14180,
+              "latitude": 12.861429660631009,
+              "longitude": 75.71385289427674,
+              "susceptibility": 84.89,
+              "risk": "Very High"
+            },
+            {
+              "id": 11536,
+              "latitude": 12.886750025742089,
+              "longitude": 75.73351763093123,
+              "susceptibility": 76.91,
+              "risk": "High"
+            }
+          ]
+        },
+        {
+          "village": "Hetturu",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 92.87,
+          "average_susceptibility": 92.87,
+          "pin_codes": [
+            "573123"
+          ],
+          "locations": [
+            {
+              "id": 5134,
+              "latitude": 12.762315589340782,
+              "longitude": 75.78227347495782,
+              "susceptibility": 92.87,
+              "risk": "Very High"
+            }
+          ]
+        },
+        {
+          "village": "Hiridanahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 61.62,
+          "average_susceptibility": 61.62,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 11689,
+              "latitude": 12.813350260098554,
+              "longitude": 75.71406962248317,
+              "susceptibility": 61.62,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Hongadahalla",
+          "high_risk_points": 22,
+          "maximum_susceptibility": 89.13,
+          "average_susceptibility": 71.7,
+          "pin_codes": [
+            "573123"
+          ],
+          "locations": [
+            {
+              "id": 21242,
+              "latitude": 12.789522061612924,
+              "longitude": 75.70628769458416,
+              "susceptibility": 89.13,
+              "risk": "Very High"
+            },
+            {
+              "id": 3749,
+              "latitude": 12.779196719595788,
+              "longitude": 75.68333469686284,
+              "susceptibility": 85.52,
+              "risk": "Very High"
+            },
+            {
+              "id": 10811,
+              "latitude": 12.787124821125593,
+              "longitude": 75.68085728039974,
+              "susceptibility": 81.59,
+              "risk": "Very High"
+            },
+            {
+              "id": 3133,
+              "latitude": 12.764396600877236,
+              "longitude": 75.67363452256502,
+              "susceptibility": 80.28,
+              "risk": "Very High"
+            },
+            {
+              "id": 3706,
+              "latitude": 12.797150672312192,
+              "longitude": 75.68276816471804,
+              "susceptibility": 79.05,
+              "risk": "High"
+            },
+            {
+              "id": 18779,
+              "latitude": 12.783683463476825,
+              "longitude": 75.70645164367954,
+              "susceptibility": 78.06,
+              "risk": "High"
+            },
+            {
+              "id": 2513,
+              "latitude": 12.774475826055388,
+              "longitude": 75.68257296213415,
+              "susceptibility": 76.03,
+              "risk": "High"
+            },
+            {
+              "id": 2286,
+              "latitude": 12.76211438194346,
+              "longitude": 75.6796651039562,
+              "susceptibility": 74.66,
+              "risk": "High"
+            },
+            {
+              "id": 1532,
+              "latitude": 12.786752418350185,
+              "longitude": 75.70471642832113,
+              "susceptibility": 74.44,
+              "risk": "High"
+            },
+            {
+              "id": 4152,
+              "latitude": 12.779655477352833,
+              "longitude": 75.70163780426319,
+              "susceptibility": 74.33,
+              "risk": "High"
+            },
+            {
+              "id": 17159,
+              "latitude": 12.787429449543335,
+              "longitude": 75.68804244690635,
+              "susceptibility": 72.3,
+              "risk": "High"
+            },
+            {
+              "id": 461,
+              "latitude": 12.76571871322558,
+              "longitude": 75.68737380671249,
+              "susceptibility": 69.71,
+              "risk": "Moderate"
+            },
+            {
+              "id": 20600,
+              "latitude": 12.79637133788786,
+              "longitude": 75.70207903841712,
+              "susceptibility": 67.6,
+              "risk": "Moderate"
+            },
+            {
+              "id": 22785,
+              "latitude": 12.773213882607058,
+              "longitude": 75.67533598049046,
+              "susceptibility": 67.43,
+              "risk": "Moderate"
+            },
+            {
+              "id": 14060,
+              "latitude": 12.773161670106678,
+              "longitude": 75.69018248810929,
+              "susceptibility": 66.76,
+              "risk": "Moderate"
+            },
+            {
+              "id": 4373,
+              "latitude": 12.776367791403752,
+              "longitude": 75.71159921275006,
+              "susceptibility": 64.57,
+              "risk": "Moderate"
+            },
+            {
+              "id": 15389,
+              "latitude": 12.790856941001254,
+              "longitude": 75.6995760628586,
+              "susceptibility": 64.09,
+              "risk": "Moderate"
+            },
+            {
+              "id": 22897,
+              "latitude": 12.789469985387775,
+              "longitude": 75.6847754615329,
+              "susceptibility": 64.04,
+              "risk": "Moderate"
+            },
+            {
+              "id": 2781,
+              "latitude": 12.791078279180908,
+              "longitude": 75.69639775780492,
+              "susceptibility": 63.51,
+              "risk": "Moderate"
+            },
+            {
+              "id": 10354,
+              "latitude": 12.798491144616587,
+              "longitude": 75.69437792594566,
+              "susceptibility": 63.22,
+              "risk": "Moderate"
+            },
+            {
+              "id": 11706,
+              "latitude": 12.770476456156269,
+              "longitude": 75.71217361497072,
+              "susceptibility": 60.86,
+              "risk": "Moderate"
+            },
+            {
+              "id": 7957,
+              "latitude": 12.76691002814391,
+              "longitude": 75.6797168083136,
+              "susceptibility": 60.15,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Hosahalli",
+          "high_risk_points": 5,
+          "maximum_susceptibility": 83.98,
+          "average_susceptibility": 66.63,
+          "pin_codes": [
+            "573123"
+          ],
+          "locations": [
+            {
+              "id": 24243,
+              "latitude": 12.800845725387846,
+              "longitude": 75.72187048083116,
+              "susceptibility": 83.98,
+              "risk": "Very High"
+            },
+            {
+              "id": 19989,
+              "latitude": 12.794047462660014,
+              "longitude": 75.72161562166843,
+              "susceptibility": 67.25,
+              "risk": "Moderate"
+            },
+            {
+              "id": 1700,
+              "latitude": 12.792306964407835,
+              "longitude": 75.72508835690769,
+              "susceptibility": 60.96,
+              "risk": "Moderate"
+            },
+            {
+              "id": 17474,
+              "latitude": 12.808304923983718,
+              "longitude": 75.72671005221575,
+              "susceptibility": 60.92,
+              "risk": "Moderate"
+            },
+            {
+              "id": 21723,
+              "latitude": 12.803889179240466,
+              "longitude": 75.71991197573351,
+              "susceptibility": 60.04,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Hosakote",
+          "high_risk_points": 3,
+          "maximum_susceptibility": 67.14,
+          "average_susceptibility": 64.03,
+          "pin_codes": [
+            "573173"
+          ],
+          "locations": [
+            {
+              "id": 6613,
+              "latitude": 12.705851398133357,
+              "longitude": 75.81378808963943,
+              "susceptibility": 67.14,
+              "risk": "Moderate"
+            },
+            {
+              "id": 21003,
+              "latitude": 12.689521247505938,
+              "longitude": 75.8243098065218,
+              "susceptibility": 64.55,
+              "risk": "Moderate"
+            },
+            {
+              "id": 14047,
+              "latitude": 12.683809707871289,
+              "longitude": 75.82570680027902,
+              "susceptibility": 60.4,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Hulagatturu",
+          "high_risk_points": 7,
+          "maximum_susceptibility": 93.04,
+          "average_susceptibility": 72.59,
+          "pin_codes": [
+            "573173"
+          ],
+          "locations": [
+            {
+              "id": 5100,
+              "latitude": 12.708352165024984,
+              "longitude": 75.79677400219171,
+              "susceptibility": 93.04,
+              "risk": "Very High"
+            },
+            {
+              "id": 11797,
+              "latitude": 12.705393895379276,
+              "longitude": 75.79886807148928,
+              "susceptibility": 80.4,
+              "risk": "Very High"
+            },
+            {
+              "id": 11176,
+              "latitude": 12.731280619408809,
+              "longitude": 75.8404322039218,
+              "susceptibility": 74.09,
+              "risk": "High"
+            },
+            {
+              "id": 10732,
+              "latitude": 12.737663408112972,
+              "longitude": 75.7638297929864,
+              "susceptibility": 71.83,
+              "risk": "High"
+            },
+            {
+              "id": 12527,
+              "latitude": 12.733271104550692,
+              "longitude": 75.81896459414307,
+              "susceptibility": 67.56,
+              "risk": "Moderate"
+            },
+            {
+              "id": 161,
+              "latitude": 12.713396978561892,
+              "longitude": 75.79390421193278,
+              "susceptibility": 60.9,
+              "risk": "Moderate"
+            },
+            {
+              "id": 3520,
+              "latitude": 12.724071946576071,
+              "longitude": 75.78917414546481,
+              "susceptibility": 60.34,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Jambaradi",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 61.96,
+          "average_susceptibility": 61.96,
+          "pin_codes": [
+            "573165"
+          ],
+          "locations": [
+            {
+              "id": 17923,
+              "latitude": 12.983926363502096,
+              "longitude": 75.70405264524237,
+              "susceptibility": 61.96,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Kadagaravalli",
+          "high_risk_points": 10,
+          "maximum_susceptibility": 96.24,
+          "average_susceptibility": 74.67,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 11272,
+              "latitude": 12.847092957289949,
+              "longitude": 75.70657477053912,
+              "susceptibility": 96.24,
+              "risk": "Very High"
+            },
+            {
+              "id": 5251,
+              "latitude": 12.847925564393837,
+              "longitude": 75.70357736349574,
+              "susceptibility": 90.65,
+              "risk": "Very High"
+            },
+            {
+              "id": 13348,
+              "latitude": 12.858837472155964,
+              "longitude": 75.7153962666751,
+              "susceptibility": 77.4,
+              "risk": "High"
+            },
+            {
+              "id": 14230,
+              "latitude": 12.84511759902734,
+              "longitude": 75.73214665626773,
+              "susceptibility": 76.13,
+              "risk": "High"
+            },
+            {
+              "id": 10160,
+              "latitude": 12.855715062342483,
+              "longitude": 75.70977844561257,
+              "susceptibility": 73.76,
+              "risk": "High"
+            },
+            {
+              "id": 15217,
+              "latitude": 12.834898218217502,
+              "longitude": 75.70772631513849,
+              "susceptibility": 72.13,
+              "risk": "High"
+            },
+            {
+              "id": 4917,
+              "latitude": 12.844188573274009,
+              "longitude": 75.7063563777192,
+              "susceptibility": 72.06,
+              "risk": "High"
+            },
+            {
+              "id": 3154,
+              "latitude": 12.837128657963424,
+              "longitude": 75.71099380511306,
+              "susceptibility": 64.82,
+              "risk": "Moderate"
+            },
+            {
+              "id": 3545,
+              "latitude": 12.835775539140712,
+              "longitude": 75.71490781324908,
+              "susceptibility": 63.0,
+              "risk": "Moderate"
+            },
+            {
+              "id": 3269,
+              "latitude": 12.860290303659056,
+              "longitude": 75.7200165322095,
+              "susceptibility": 60.56,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Kadumane",
+          "high_risk_points": 13,
+          "maximum_susceptibility": 89.75,
+          "average_susceptibility": 71.72,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 12566,
+              "latitude": 12.918873246940803,
+              "longitude": 75.65868330305905,
+              "susceptibility": 89.75,
+              "risk": "Very High"
+            },
+            {
+              "id": 24575,
+              "latitude": 12.890269445109258,
+              "longitude": 75.69589541717244,
+              "susceptibility": 82.92,
+              "risk": "Very High"
+            },
+            {
+              "id": 19183,
+              "latitude": 12.915375359741455,
+              "longitude": 75.67441472447247,
+              "susceptibility": 80.68,
+              "risk": "Very High"
+            },
+            {
+              "id": 7854,
+              "latitude": 12.867424249227565,
+              "longitude": 75.66464524406689,
+              "susceptibility": 79.63,
+              "risk": "High"
+            },
+            {
+              "id": 18791,
+              "latitude": 12.888923768027118,
+              "longitude": 75.68168224138346,
+              "susceptibility": 72.35,
+              "risk": "High"
+            },
+            {
+              "id": 16847,
+              "latitude": 12.89274511469732,
+              "longitude": 75.68201555189677,
+              "susceptibility": 69.24,
+              "risk": "Moderate"
+            },
+            {
+              "id": 21230,
+              "latitude": 12.890845311035706,
+              "longitude": 75.68971372477952,
+              "susceptibility": 69.13,
+              "risk": "Moderate"
+            },
+            {
+              "id": 24320,
+              "latitude": 12.869073727611257,
+              "longitude": 75.68240019177158,
+              "susceptibility": 67.89,
+              "risk": "Moderate"
+            },
+            {
+              "id": 22575,
+              "latitude": 12.865897677802591,
+              "longitude": 75.67798404260088,
+              "susceptibility": 67.35,
+              "risk": "Moderate"
+            },
+            {
+              "id": 22987,
+              "latitude": 12.89699385401624,
+              "longitude": 75.67676727229744,
+              "susceptibility": 65.54,
+              "risk": "Moderate"
+            },
+            {
+              "id": 11725,
+              "latitude": 12.880444784413768,
+              "longitude": 75.68421527405538,
+              "susceptibility": 64.22,
+              "risk": "Moderate"
+            },
+            {
+              "id": 8404,
+              "latitude": 12.905699121847,
+              "longitude": 75.65240346559155,
+              "susceptibility": 61.99,
+              "risk": "Moderate"
+            },
+            {
+              "id": 5257,
+              "latitude": 12.872690050461268,
+              "longitude": 75.68262824850416,
+              "susceptibility": 61.7,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Kagenari",
+          "high_risk_points": 50,
+          "maximum_susceptibility": 87.73,
+          "average_susceptibility": 71.24,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 23228,
+              "latitude": 12.82571803315242,
+              "longitude": 75.68022850055938,
+              "susceptibility": 87.73,
+              "risk": "Very High"
+            },
+            {
+              "id": 9852,
+              "latitude": 12.818472493527135,
+              "longitude": 75.65471783760928,
+              "susceptibility": 86.54,
+              "risk": "Very High"
+            },
+            {
+              "id": 20460,
+              "latitude": 12.803213310292504,
+              "longitude": 75.63785717238372,
+              "susceptibility": 85.46,
+              "risk": "Very High"
+            },
+            {
+              "id": 21697,
+              "latitude": 12.790908139589536,
+              "longitude": 75.64280968298645,
+              "susceptibility": 85.07,
+              "risk": "Very High"
+            },
+            {
+              "id": 22974,
+              "latitude": 12.810317024464675,
+              "longitude": 75.66452626743934,
+              "susceptibility": 84.36,
+              "risk": "Very High"
+            },
+            {
+              "id": 18972,
+              "latitude": 12.790372031163333,
+              "longitude": 75.64970166725038,
+              "susceptibility": 82.32,
+              "risk": "Very High"
+            },
+            {
+              "id": 725,
+              "latitude": 12.79504495222194,
+              "longitude": 75.63814044594102,
+              "susceptibility": 81.54,
+              "risk": "Very High"
+            },
+            {
+              "id": 14728,
+              "latitude": 12.806485362850555,
+              "longitude": 75.63779972189997,
+              "susceptibility": 80.45,
+              "risk": "Very High"
+            },
+            {
+              "id": 11601,
+              "latitude": 12.80591368611967,
+              "longitude": 75.67652109106477,
+              "susceptibility": 79.73,
+              "risk": "High"
+            },
+            {
+              "id": 23112,
+              "latitude": 12.812210887066104,
+              "longitude": 75.64070476892239,
+              "susceptibility": 78.55,
+              "risk": "High"
+            },
+            {
+              "id": 19874,
+              "latitude": 12.79279312009304,
+              "longitude": 75.6688369675076,
+              "susceptibility": 77.5,
+              "risk": "High"
+            },
+            {
+              "id": 16923,
+              "latitude": 12.816906299804868,
+              "longitude": 75.6310038234334,
+              "susceptibility": 76.44,
+              "risk": "High"
+            },
+            {
+              "id": 21845,
+              "latitude": 12.787420352686212,
+              "longitude": 75.64540486510681,
+              "susceptibility": 76.26,
+              "risk": "High"
+            },
+            {
+              "id": 20479,
+              "latitude": 12.81453824424042,
+              "longitude": 75.6683754888327,
+              "susceptibility": 75.31,
+              "risk": "High"
+            },
+            {
+              "id": 2526,
+              "latitude": 12.793547429810044,
+              "longitude": 75.65036818968653,
+              "susceptibility": 72.93,
+              "risk": "High"
+            },
+            {
+              "id": 6325,
+              "latitude": 12.7964527005646,
+              "longitude": 75.63249972188619,
+              "susceptibility": 72.9,
+              "risk": "High"
+            },
+            {
+              "id": 10360,
+              "latitude": 12.815826408387045,
+              "longitude": 75.62550709215195,
+              "susceptibility": 72.7,
+              "risk": "High"
+            },
+            {
+              "id": 2683,
+              "latitude": 12.8320391551902,
+              "longitude": 75.66388094009521,
+              "susceptibility": 72.35,
+              "risk": "High"
+            },
+            {
+              "id": 17067,
+              "latitude": 12.809258088564633,
+              "longitude": 75.66821850007925,
+              "susceptibility": 71.99,
+              "risk": "High"
+            },
+            {
+              "id": 449,
+              "latitude": 12.81937702453808,
+              "longitude": 75.6815889757171,
+              "susceptibility": 71.93,
+              "risk": "High"
+            },
+            {
+              "id": 12013,
+              "latitude": 12.806209957167496,
+              "longitude": 75.62548282497566,
+              "susceptibility": 71.83,
+              "risk": "High"
+            },
+            {
+              "id": 19019,
+              "latitude": 12.82014830709762,
+              "longitude": 75.6420651178361,
+              "susceptibility": 70.55,
+              "risk": "High"
+            },
+            {
+              "id": 11553,
+              "latitude": 12.81271195915626,
+              "longitude": 75.64879268322257,
+              "susceptibility": 70.38,
+              "risk": "High"
+            },
+            {
+              "id": 24787,
+              "latitude": 12.81349840088592,
+              "longitude": 75.6605158615836,
+              "susceptibility": 70.12,
+              "risk": "High"
+            },
+            {
+              "id": 3204,
+              "latitude": 12.792195625738287,
+              "longitude": 75.64616358730207,
+              "susceptibility": 70.08,
+              "risk": "High"
+            },
+            {
+              "id": 7125,
+              "latitude": 12.791409104568896,
+              "longitude": 75.63882544027872,
+              "susceptibility": 69.89,
+              "risk": "Moderate"
+            },
+            {
+              "id": 23535,
+              "latitude": 12.813419477651932,
+              "longitude": 75.68223401082851,
+              "susceptibility": 69.7,
+              "risk": "Moderate"
+            },
+            {
+              "id": 13767,
+              "latitude": 12.818708940960391,
+              "longitude": 75.68548978004851,
+              "susceptibility": 69.16,
+              "risk": "Moderate"
+            },
+            {
+              "id": 21958,
+              "latitude": 12.817166310422806,
+              "longitude": 75.64127796243551,
+              "susceptibility": 68.74,
+              "risk": "Moderate"
+            },
+            {
+              "id": 16492,
+              "latitude": 12.81753185507479,
+              "longitude": 75.67920337770833,
+              "susceptibility": 68.12,
+              "risk": "Moderate"
+            },
+            {
+              "id": 22717,
+              "latitude": 12.806458906969953,
+              "longitude": 75.63031954438586,
+              "susceptibility": 67.46,
+              "risk": "Moderate"
+            },
+            {
+              "id": 16771,
+              "latitude": 12.80958987372722,
+              "longitude": 75.6816529952584,
+              "susceptibility": 67.4,
+              "risk": "Moderate"
+            },
+            {
+              "id": 4325,
+              "latitude": 12.786525682401209,
+              "longitude": 75.66984261349381,
+              "susceptibility": 67.23,
+              "risk": "Moderate"
+            },
+            {
+              "id": 15202,
+              "latitude": 12.81323737408296,
+              "longitude": 75.63753880120913,
+              "susceptibility": 67.11,
+              "risk": "Moderate"
+            },
+            {
+              "id": 13173,
+              "latitude": 12.80980894795545,
+              "longitude": 75.63400364154131,
+              "susceptibility": 67.08,
+              "risk": "Moderate"
+            },
+            {
+              "id": 11950,
+              "latitude": 12.785767740452767,
+              "longitude": 75.66526272672085,
+              "susceptibility": 67.04,
+              "risk": "Moderate"
+            },
+            {
+              "id": 195,
+              "latitude": 12.80078305198382,
+              "longitude": 75.67265256672438,
+              "susceptibility": 66.66,
+              "risk": "Moderate"
+            },
+            {
+              "id": 14746,
+              "latitude": 12.821759108765004,
+              "longitude": 75.64834376277878,
+              "susceptibility": 65.66,
+              "risk": "Moderate"
+            },
+            {
+              "id": 7856,
+              "latitude": 12.800369814457634,
+              "longitude": 75.62619440921911,
+              "susceptibility": 65.6,
+              "risk": "Moderate"
+            },
+            {
+              "id": 1853,
+              "latitude": 12.784211879771073,
+              "longitude": 75.65100876449213,
+              "susceptibility": 65.42,
+              "risk": "Moderate"
+            },
+            {
+              "id": 2340,
+              "latitude": 12.779020412027714,
+              "longitude": 75.64805678391401,
+              "susceptibility": 64.49,
+              "risk": "Moderate"
+            },
+            {
+              "id": 16166,
+              "latitude": 12.800389272502736,
+              "longitude": 75.66577230634702,
+              "susceptibility": 64.05,
+              "risk": "Moderate"
+            },
+            {
+              "id": 10062,
+              "latitude": 12.786480722022665,
+              "longitude": 75.63635206482185,
+              "susceptibility": 63.49,
+              "risk": "Moderate"
+            },
+            {
+              "id": 24521,
+              "latitude": 12.785055387984103,
+              "longitude": 75.64337723687532,
+              "susceptibility": 63.41,
+              "risk": "Moderate"
+            },
+            {
+              "id": 24006,
+              "latitude": 12.811888127717628,
+              "longitude": 75.6530059098539,
+              "susceptibility": 63.06,
+              "risk": "Moderate"
+            },
+            {
+              "id": 17533,
+              "latitude": 12.818490203901993,
+              "longitude": 75.65775612008748,
+              "susceptibility": 62.96,
+              "risk": "Moderate"
+            },
+            {
+              "id": 7261,
+              "latitude": 12.796874857262306,
+              "longitude": 75.6282954284909,
+              "susceptibility": 61.55,
+              "risk": "Moderate"
+            },
+            {
+              "id": 11589,
+              "latitude": 12.810341521090518,
+              "longitude": 75.62857370806566,
+              "susceptibility": 61.26,
+              "risk": "Moderate"
+            },
+            {
+              "id": 11636,
+              "latitude": 12.794281616717834,
+              "longitude": 75.66199096689763,
+              "susceptibility": 60.45,
+              "risk": "Moderate"
+            },
+            {
+              "id": 11642,
+              "latitude": 12.782537310155313,
+              "longitude": 75.63904161382895,
+              "susceptibility": 60.09,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Kalale",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 62.47,
+          "average_susceptibility": 62.47,
+          "pin_codes": [
+            "573173"
+          ],
+          "locations": [
+            {
+              "id": 14017,
+              "latitude": 12.686667139505776,
+              "longitude": 75.86214351046733,
+              "susceptibility": 62.47,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Kamenahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 61.32,
+          "average_susceptibility": 61.32,
+          "pin_codes": [
+            "573214"
+          ],
+          "locations": [
+            {
+              "id": 2799,
+              "latitude": 12.87679951184384,
+              "longitude": 75.79578244407537,
+              "susceptibility": 61.32,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Kiruhunase",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 97.25,
+          "average_susceptibility": 97.25,
+          "pin_codes": [
+            "573214"
+          ],
+          "locations": [
+            {
+              "id": 8568,
+              "latitude": 12.91525729013439,
+              "longitude": 75.8206857497967,
+              "susceptibility": 97.25,
+              "risk": "Very High"
+            }
+          ]
+        },
+        {
+          "village": "Kumbarageri",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 72.52,
+          "average_susceptibility": 67.22,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 16664,
+              "latitude": 12.80101274860792,
+              "longitude": 75.80773012271504,
+              "susceptibility": 72.52,
+              "risk": "High"
+            },
+            {
+              "id": 18320,
+              "latitude": 12.802156421747169,
+              "longitude": 75.81967083141613,
+              "susceptibility": 61.93,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Kyanahalli",
+          "high_risk_points": 4,
+          "maximum_susceptibility": 64.66,
+          "average_susceptibility": 62.81,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 4726,
+              "latitude": 12.906854048152129,
+              "longitude": 75.73416016685478,
+              "susceptibility": 64.66,
+              "risk": "Moderate"
+            },
+            {
+              "id": 7805,
+              "latitude": 12.89690471850224,
+              "longitude": 75.73650555468673,
+              "susceptibility": 62.91,
+              "risk": "Moderate"
+            },
+            {
+              "id": 1424,
+              "latitude": 12.885206643253811,
+              "longitude": 75.74966711638683,
+              "susceptibility": 62.66,
+              "risk": "Moderate"
+            },
+            {
+              "id": 1136,
+              "latitude": 12.900618243254744,
+              "longitude": 75.73374361005311,
+              "susceptibility": 61.02,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Makkihalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 67.29,
+          "average_susceptibility": 67.29,
+          "pin_codes": [
+            "573165"
+          ],
+          "locations": [
+            {
+              "id": 14444,
+              "latitude": 12.980102782219769,
+              "longitude": 75.69193836611939,
+              "susceptibility": 67.29,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Mankanahalli",
+          "high_risk_points": 6,
+          "maximum_susceptibility": 77.23,
+          "average_susceptibility": 67.24,
+          "pin_codes": [
+            "573123"
+          ],
+          "locations": [
+            {
+              "id": 2991,
+              "latitude": 12.700611666056227,
+              "longitude": 75.72424997662652,
+              "susceptibility": 77.23,
+              "risk": "High"
+            },
+            {
+              "id": 11527,
+              "latitude": 12.74922881751607,
+              "longitude": 75.71518937591273,
+              "susceptibility": 69.16,
+              "risk": "Moderate"
+            },
+            {
+              "id": 18848,
+              "latitude": 12.714630738477704,
+              "longitude": 75.7140897889852,
+              "susceptibility": 68.75,
+              "risk": "Moderate"
+            },
+            {
+              "id": 18941,
+              "latitude": 12.743028049842746,
+              "longitude": 75.71721710156481,
+              "susceptibility": 64.95,
+              "risk": "Moderate"
+            },
+            {
+              "id": 9993,
+              "latitude": 12.708629993455308,
+              "longitude": 75.71387139320719,
+              "susceptibility": 62.63,
+              "risk": "Moderate"
+            },
+            {
+              "id": 23345,
+              "latitude": 12.736725184072608,
+              "longitude": 75.70953210553724,
+              "susceptibility": 60.73,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Maranahalli",
+          "high_risk_points": 37,
+          "maximum_susceptibility": 99.71,
+          "average_susceptibility": 76.46,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 8486,
+              "latitude": 12.847785127283135,
+              "longitude": 75.69787026850862,
+              "susceptibility": 99.71,
+              "risk": "Very High"
+            },
+            {
+              "id": 21658,
+              "latitude": 12.84836862723289,
+              "longitude": 75.68704327644745,
+              "susceptibility": 97.48,
+              "risk": "Very High"
+            },
+            {
+              "id": 19715,
+              "latitude": 12.839114709100032,
+              "longitude": 75.683628388803,
+              "susceptibility": 95.33,
+              "risk": "Very High"
+            },
+            {
+              "id": 24172,
+              "latitude": 12.856875574393316,
+              "longitude": 75.68715806637414,
+              "susceptibility": 89.42,
+              "risk": "Very High"
+            },
+            {
+              "id": 17263,
+              "latitude": 12.845581205347347,
+              "longitude": 75.68983173937785,
+              "susceptibility": 88.98,
+              "risk": "Very High"
+            },
+            {
+              "id": 14500,
+              "latitude": 12.866575845580067,
+              "longitude": 75.6962676812431,
+              "susceptibility": 88.94,
+              "risk": "Very High"
+            },
+            {
+              "id": 17678,
+              "latitude": 12.854134257028356,
+              "longitude": 75.68096953700177,
+              "susceptibility": 86.98,
+              "risk": "Very High"
+            },
+            {
+              "id": 16029,
+              "latitude": 12.852926110875131,
+              "longitude": 75.69657077488361,
+              "susceptibility": 86.74,
+              "risk": "Very High"
+            },
+            {
+              "id": 19388,
+              "latitude": 12.857011667708516,
+              "longitude": 75.68008560208395,
+              "susceptibility": 86.18,
+              "risk": "Very High"
+            },
+            {
+              "id": 2759,
+              "latitude": 12.854185038609328,
+              "longitude": 75.68938241734077,
+              "susceptibility": 84.74,
+              "risk": "Very High"
+            },
+            {
+              "id": 893,
+              "latitude": 12.851162437135796,
+              "longitude": 75.69104922560318,
+              "susceptibility": 84.64,
+              "risk": "Very High"
+            },
+            {
+              "id": 20091,
+              "latitude": 12.850574532398396,
+              "longitude": 75.68123087612426,
+              "susceptibility": 83.88,
+              "risk": "Very High"
+            },
+            {
+              "id": 8119,
+              "latitude": 12.845383533887224,
+              "longitude": 75.67815821196022,
+              "susceptibility": 83.63,
+              "risk": "Very High"
+            },
+            {
+              "id": 8880,
+              "latitude": 12.837804780109526,
+              "longitude": 75.68666331186357,
+              "susceptibility": 82.1,
+              "risk": "Very High"
+            },
+            {
+              "id": 12211,
+              "latitude": 12.89104707160733,
+              "longitude": 75.68648386271978,
+              "susceptibility": 80.35,
+              "risk": "Very High"
+            },
+            {
+              "id": 5029,
+              "latitude": 12.870987232730476,
+              "longitude": 75.69667221537175,
+              "susceptibility": 79.94,
+              "risk": "High"
+            },
+            {
+              "id": 989,
+              "latitude": 12.900230075248963,
+              "longitude": 75.69508014537975,
+              "susceptibility": 77.84,
+              "risk": "High"
+            },
+            {
+              "id": 3271,
+              "latitude": 12.858625516607228,
+              "longitude": 75.71084695193947,
+              "susceptibility": 76.01,
+              "risk": "High"
+            },
+            {
+              "id": 1271,
+              "latitude": 12.894707562906184,
+              "longitude": 75.69213621914979,
+              "susceptibility": 75.78,
+              "risk": "High"
+            },
+            {
+              "id": 15218,
+              "latitude": 12.87031646052351,
+              "longitude": 75.68946509499037,
+              "susceptibility": 72.07,
+              "risk": "High"
+            },
+            {
+              "id": 18730,
+              "latitude": 12.861367023900288,
+              "longitude": 75.7003431030691,
+              "susceptibility": 71.96,
+              "risk": "High"
+            },
+            {
+              "id": 13303,
+              "latitude": 12.853626588796056,
+              "longitude": 75.69268761009889,
+              "susceptibility": 71.36,
+              "risk": "High"
+            },
+            {
+              "id": 2774,
+              "latitude": 12.90875216107221,
+              "longitude": 75.68759173546054,
+              "susceptibility": 70.44,
+              "risk": "High"
+            },
+            {
+              "id": 18994,
+              "latitude": 12.859596412773977,
+              "longitude": 75.70629001950202,
+              "susceptibility": 68.91,
+              "risk": "Moderate"
+            },
+            {
+              "id": 7104,
+              "latitude": 12.843258804226316,
+              "longitude": 75.69318315119345,
+              "susceptibility": 67.49,
+              "risk": "Moderate"
+            },
+            {
+              "id": 24864,
+              "latitude": 12.842728258212324,
+              "longitude": 75.68372604127238,
+              "susceptibility": 67.22,
+              "risk": "Moderate"
+            },
+            {
+              "id": 17680,
+              "latitude": 12.87043577083744,
+              "longitude": 75.70443742367428,
+              "susceptibility": 66.62,
+              "risk": "Moderate"
+            },
+            {
+              "id": 19531,
+              "latitude": 12.865503566440411,
+              "longitude": 75.68234510340957,
+              "susceptibility": 66.3,
+              "risk": "Moderate"
+            },
+            {
+              "id": 21554,
+              "latitude": 12.862391940493234,
+              "longitude": 75.69734433640684,
+              "susceptibility": 66.21,
+              "risk": "Moderate"
+            },
+            {
+              "id": 24628,
+              "latitude": 12.896929702341367,
+              "longitude": 75.70375155664458,
+              "susceptibility": 65.61,
+              "risk": "Moderate"
+            },
+            {
+              "id": 23207,
+              "latitude": 12.895101972015189,
+              "longitude": 75.6884630527712,
+              "susceptibility": 65.2,
+              "risk": "Moderate"
+            },
+            {
+              "id": 12421,
+              "latitude": 12.896689489572434,
+              "longitude": 75.68353421771222,
+              "susceptibility": 64.8,
+              "risk": "Moderate"
+            },
+            {
+              "id": 3928,
+              "latitude": 12.882829937052731,
+              "longitude": 75.70804375715825,
+              "susceptibility": 64.46,
+              "risk": "Moderate"
+            },
+            {
+              "id": 17562,
+              "latitude": 12.849660921509471,
+              "longitude": 75.69393495209846,
+              "susceptibility": 63.69,
+              "risk": "Moderate"
+            },
+            {
+              "id": 10537,
+              "latitude": 12.885327062714175,
+              "longitude": 75.70081660910891,
+              "susceptibility": 62.94,
+              "risk": "Moderate"
+            },
+            {
+              "id": 4685,
+              "latitude": 12.865923275436362,
+              "longitude": 75.69918714275128,
+              "susceptibility": 62.59,
+              "risk": "Moderate"
+            },
+            {
+              "id": 18793,
+              "latitude": 12.88751694477525,
+              "longitude": 75.70785757062615,
+              "susceptibility": 62.46,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Nadalli",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 76.06,
+          "average_susceptibility": 68.61,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 2785,
+              "latitude": 12.918341396497684,
+              "longitude": 75.7248718357156,
+              "susceptibility": 76.06,
+              "risk": "High"
+            },
+            {
+              "id": 5581,
+              "latitude": 12.904781736556068,
+              "longitude": 75.71566883185649,
+              "susceptibility": 61.15,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Nelagalli",
+          "high_risk_points": 6,
+          "maximum_susceptibility": 93.71,
+          "average_susceptibility": 75.52,
+          "pin_codes": [
+            "574132"
+          ],
+          "locations": [
+            {
+              "id": 9353,
+              "latitude": 12.960942807599022,
+              "longitude": 75.60941904727994,
+              "susceptibility": 93.71,
+              "risk": "Very High"
+            },
+            {
+              "id": 5589,
+              "latitude": 12.97590254900454,
+              "longitude": 75.61102683988197,
+              "susceptibility": 88.76,
+              "risk": "Very High"
+            },
+            {
+              "id": 18181,
+              "latitude": 12.9522891709003,
+              "longitude": 75.6201167701623,
+              "susceptibility": 77.02,
+              "risk": "High"
+            },
+            {
+              "id": 6353,
+              "latitude": 12.95813326612942,
+              "longitude": 75.61846339804806,
+              "susceptibility": 69.83,
+              "risk": "Moderate"
+            },
+            {
+              "id": 17928,
+              "latitude": 12.985735613666082,
+              "longitude": 75.61667001894686,
+              "susceptibility": 62.19,
+              "risk": "Moderate"
+            },
+            {
+              "id": 11867,
+              "latitude": 12.96657098426965,
+              "longitude": 75.61692892767827,
+              "susceptibility": 61.64,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Nikanahalli",
+          "high_risk_points": 6,
+          "maximum_susceptibility": 82.25,
+          "average_susceptibility": 70.92,
+          "pin_codes": [
+            "574132"
+          ],
+          "locations": [
+            {
+              "id": 10936,
+              "latitude": 12.973586511507834,
+              "longitude": 75.64984425220005,
+              "susceptibility": 82.25,
+              "risk": "Very High"
+            },
+            {
+              "id": 21229,
+              "latitude": 12.987212569630747,
+              "longitude": 75.644884410336,
+              "susceptibility": 79.16,
+              "risk": "High"
+            },
+            {
+              "id": 15050,
+              "latitude": 12.9759125671916,
+              "longitude": 75.65139965031602,
+              "susceptibility": 71.47,
+              "risk": "High"
+            },
+            {
+              "id": 21522,
+              "latitude": 12.96990167226044,
+              "longitude": 75.63975849503578,
+              "susceptibility": 70.49,
+              "risk": "High"
+            },
+            {
+              "id": 9883,
+              "latitude": 12.97251761931604,
+              "longitude": 75.6448631067837,
+              "susceptibility": 61.18,
+              "risk": "Moderate"
+            },
+            {
+              "id": 10761,
+              "latitude": 12.980818115923388,
+              "longitude": 75.64317060267315,
+              "susceptibility": 60.95,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Nudarahalli",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 61.6,
+          "average_susceptibility": 61.0,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 1065,
+              "latitude": 12.865284295090529,
+              "longitude": 75.73243958704148,
+              "susceptibility": 61.6,
+              "risk": "Moderate"
+            },
+            {
+              "id": 17609,
+              "latitude": 12.893380400035262,
+              "longitude": 75.74917957443891,
+              "susceptibility": 60.41,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Odahalli",
+          "high_risk_points": 1,
+          "maximum_susceptibility": 60.2,
+          "average_susceptibility": 60.2,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 22887,
+              "latitude": 12.702079676691678,
+              "longitude": 75.75913473473793,
+              "susceptibility": 60.2,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Rakshidi",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 63.64,
+          "average_susceptibility": 62.72,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 4464,
+              "latitude": 12.945483706983389,
+              "longitude": 75.6970550111119,
+              "susceptibility": 63.64,
+              "risk": "Moderate"
+            },
+            {
+              "id": 18065,
+              "latitude": 12.933831681163213,
+              "longitude": 75.68298154749853,
+              "susceptibility": 61.79,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Ucchangi",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 88.5,
+          "average_susceptibility": 75.77,
+          "pin_codes": [
+            "573173"
+          ],
+          "locations": [
+            {
+              "id": 10824,
+              "latitude": 12.765362069405196,
+              "longitude": 75.8133013203651,
+              "susceptibility": 88.5,
+              "risk": "Very High"
+            },
+            {
+              "id": 1216,
+              "latitude": 12.745001983271374,
+              "longitude": 75.82175979144736,
+              "susceptibility": 63.03,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Vanaguru",
+          "high_risk_points": 2,
+          "maximum_susceptibility": 66.86,
+          "average_susceptibility": 63.5,
+          "pin_codes": [
+            "573123"
+          ],
+          "locations": [
+            {
+              "id": 22032,
+              "latitude": 12.732988930848578,
+              "longitude": 75.7352757607863,
+              "susceptibility": 66.86,
+              "risk": "Moderate"
+            },
+            {
+              "id": 16925,
+              "latitude": 12.682563082648151,
+              "longitude": 75.75818520310345,
+              "susceptibility": 60.13,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Vanaguru Kuduraste",
+          "high_risk_points": 3,
+          "maximum_susceptibility": 83.17,
+          "average_susceptibility": 68.77,
+          "pin_codes": [
+            "573123"
+          ],
+          "locations": [
+            {
+              "id": 19078,
+              "latitude": 12.724847925036926,
+              "longitude": 75.74838181518297,
+              "susceptibility": 83.17,
+              "risk": "Very High"
+            },
+            {
+              "id": 12363,
+              "latitude": 12.733087092301885,
+              "longitude": 75.74912999567846,
+              "susceptibility": 62.78,
+              "risk": "Moderate"
+            },
+            {
+              "id": 21309,
+              "latitude": 12.730621858968604,
+              "longitude": 75.71532575491113,
+              "susceptibility": 60.35,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "village": "Yadukumeri",
+          "high_risk_points": 18,
+          "maximum_susceptibility": 96.33,
+          "average_susceptibility": 73.56,
+          "pin_codes": [],
+          "locations": [
+            {
+              "id": 4417,
+              "latitude": 12.826695426161624,
+              "longitude": 75.6970972330256,
+              "susceptibility": 96.33,
+              "risk": "Very High"
+            },
+            {
+              "id": 24761,
+              "latitude": 12.81654801049556,
+              "longitude": 75.70696042363886,
+              "susceptibility": 89.23,
+              "risk": "Very High"
+            },
+            {
+              "id": 605,
+              "latitude": 12.829004260586718,
+              "longitude": 75.70061594293048,
+              "susceptibility": 82.81,
+              "risk": "Very High"
+            },
+            {
+              "id": 15243,
+              "latitude": 12.807233365192369,
+              "longitude": 75.6886224248295,
+              "susceptibility": 79.01,
+              "risk": "High"
+            },
+            {
+              "id": 19362,
+              "latitude": 12.83188279503104,
+              "longitude": 75.68368740757927,
+              "susceptibility": 75.95,
+              "risk": "High"
+            },
+            {
+              "id": 6978,
+              "latitude": 12.833653758675116,
+              "longitude": 75.68046856143337,
+              "susceptibility": 75.11,
+              "risk": "High"
+            },
+            {
+              "id": 11942,
+              "latitude": 12.832673085626066,
+              "longitude": 75.6896223006758,
+              "susceptibility": 74.71,
+              "risk": "High"
+            },
+            {
+              "id": 9221,
+              "latitude": 12.829713433264596,
+              "longitude": 75.68748709669238,
+              "susceptibility": 72.51,
+              "risk": "High"
+            },
+            {
+              "id": 15357,
+              "latitude": 12.829955498054508,
+              "longitude": 75.69521224343968,
+              "susceptibility": 72.13,
+              "risk": "High"
+            },
+            {
+              "id": 13435,
+              "latitude": 12.81639292610656,
+              "longitude": 75.68818755804945,
+              "susceptibility": 71.93,
+              "risk": "High"
+            },
+            {
+              "id": 13798,
+              "latitude": 12.823126382865198,
+              "longitude": 75.70614847130818,
+              "susceptibility": 71.34,
+              "risk": "High"
+            },
+            {
+              "id": 24224,
+              "latitude": 12.82617614181322,
+              "longitude": 75.70029137895759,
+              "susceptibility": 70.03,
+              "risk": "High"
+            },
+            {
+              "id": 5071,
+              "latitude": 12.833304328338071,
+              "longitude": 75.68681142720457,
+              "susceptibility": 69.48,
+              "risk": "Moderate"
+            },
+            {
+              "id": 16774,
+              "latitude": 12.832061807293718,
+              "longitude": 75.67305544691011,
+              "susceptibility": 67.45,
+              "risk": "Moderate"
+            },
+            {
+              "id": 13309,
+              "latitude": 12.82268584711182,
+              "longitude": 75.6925303350159,
+              "susceptibility": 66.65,
+              "risk": "Moderate"
+            },
+            {
+              "id": 23652,
+              "latitude": 12.818161921062387,
+              "longitude": 75.69725781968027,
+              "susceptibility": 65.11,
+              "risk": "Moderate"
+            },
+            {
+              "id": 13219,
+              "latitude": 12.805597266521564,
+              "longitude": 75.69390095844905,
+              "susceptibility": 64.19,
+              "risk": "Moderate"
+            },
+            {
+              "id": 9743,
+              "latitude": 12.828814449894828,
+              "longitude": 75.70601568830011,
+              "susceptibility": 60.09,
+              "risk": "Moderate"
+            }
+          ]
+        }
+      ],
+      "pin_codes": [
+        {
+          "pincode": "573123",
+          "high_risk_points": 43,
+          "villages": [
+            "Arani",
+            "Attihalli",
+            "Boranamane",
+            "Goddu",
+            "Hetturu",
+            "Hongadahalla",
+            "Hosahalli",
+            "Mankanahalli",
+            "Vanaguru",
+            "Vanaguru Kuduraste"
+          ],
+          "maximum_susceptibility": 99.39,
+          "locations": [
+            {
+              "id": 17504,
+              "village": "Arani",
+              "latitude": 12.710340004567264,
+              "longitude": 75.69438802197257,
+              "susceptibility": 99.39,
+              "risk": "Very High"
+            },
+            {
+              "id": 5134,
+              "village": "Hetturu",
+              "latitude": 12.762315589340782,
+              "longitude": 75.78227347495782,
+              "susceptibility": 92.87,
+              "risk": "Very High"
+            },
+            {
+              "id": 21242,
+              "village": "Hongadahalla",
+              "latitude": 12.789522061612924,
+              "longitude": 75.70628769458416,
+              "susceptibility": 89.13,
+              "risk": "Very High"
+            },
+            {
+              "id": 20900,
+              "village": "Arani",
+              "latitude": 12.719790468985284,
+              "longitude": 75.70066318819336,
+              "susceptibility": 87.0,
+              "risk": "Very High"
+            },
+            {
+              "id": 24243,
+              "village": "Hosahalli",
+              "latitude": 12.800845725387846,
+              "longitude": 75.72187048083116,
+              "susceptibility": 83.98,
+              "risk": "Very High"
+            },
+            {
+              "id": 19078,
+              "village": "Vanaguru Kuduraste",
+              "latitude": 12.724847925036926,
+              "longitude": 75.74838181518297,
+              "susceptibility": 83.17,
+              "risk": "Very High"
+            },
+            {
+              "id": 18779,
+              "village": "Hongadahalla",
+              "latitude": 12.783683463476825,
+              "longitude": 75.70645164367954,
+              "susceptibility": 78.06,
+              "risk": "High"
+            },
+            {
+              "id": 21945,
+              "village": "Arani",
+              "latitude": 12.7219296146438,
+              "longitude": 75.68744937044728,
+              "susceptibility": 77.44,
+              "risk": "High"
+            },
+            {
+              "id": 2991,
+              "village": "Mankanahalli",
+              "latitude": 12.700611666056227,
+              "longitude": 75.72424997662652,
+              "susceptibility": 77.23,
+              "risk": "High"
+            },
+            {
+              "id": 20512,
+              "village": "Arani",
+              "latitude": 12.707753061249043,
+              "longitude": 75.6934530286224,
+              "susceptibility": 74.53,
+              "risk": "High"
+            },
+            {
+              "id": 1532,
+              "village": "Hongadahalla",
+              "latitude": 12.786752418350185,
+              "longitude": 75.70471642832113,
+              "susceptibility": 74.44,
+              "risk": "High"
+            },
+            {
+              "id": 4152,
+              "village": "Hongadahalla",
+              "latitude": 12.779655477352833,
+              "longitude": 75.70163780426319,
+              "susceptibility": 74.33,
+              "risk": "High"
+            },
+            {
+              "id": 11392,
+              "village": "Arani",
+              "latitude": 12.725374506179795,
+              "longitude": 75.69117097222312,
+              "susceptibility": 72.54,
+              "risk": "High"
+            },
+            {
+              "id": 2294,
+              "village": "Arani",
+              "latitude": 12.724075051234676,
+              "longitude": 75.70827145205229,
+              "susceptibility": 72.23,
+              "risk": "High"
+            },
+            {
+              "id": 1608,
+              "village": "Arani",
+              "latitude": 12.728489404850473,
+              "longitude": 75.698439823321,
+              "susceptibility": 70.37,
+              "risk": "High"
+            },
+            {
+              "id": 4086,
+              "village": "Arani",
+              "latitude": 12.70574069637506,
+              "longitude": 75.69786322602293,
+              "susceptibility": 69.99,
+              "risk": "Moderate"
+            },
+            {
+              "id": 11527,
+              "village": "Mankanahalli",
+              "latitude": 12.74922881751607,
+              "longitude": 75.71518937591273,
+              "susceptibility": 69.16,
+              "risk": "Moderate"
+            },
+            {
+              "id": 18848,
+              "village": "Mankanahalli",
+              "latitude": 12.714630738477704,
+              "longitude": 75.7140897889852,
+              "susceptibility": 68.75,
+              "risk": "Moderate"
+            },
+            {
+              "id": 19751,
+              "village": "Arani",
+              "latitude": 12.724848808893023,
+              "longitude": 75.6884519725685,
+              "susceptibility": 67.36,
+              "risk": "Moderate"
+            },
+            {
+              "id": 19989,
+              "village": "Hosahalli",
+              "latitude": 12.794047462660014,
+              "longitude": 75.72161562166843,
+              "susceptibility": 67.25,
+              "risk": "Moderate"
+            },
+            {
+              "id": 22032,
+              "village": "Vanaguru",
+              "latitude": 12.732988930848578,
+              "longitude": 75.7352757607863,
+              "susceptibility": 66.86,
+              "risk": "Moderate"
+            },
+            {
+              "id": 12665,
+              "village": "Arani",
+              "latitude": 12.713219456973585,
+              "longitude": 75.70151388808912,
+              "susceptibility": 65.78,
+              "risk": "Moderate"
+            },
+            {
+              "id": 18941,
+              "village": "Mankanahalli",
+              "latitude": 12.743028049842746,
+              "longitude": 75.71721710156481,
+              "susceptibility": 64.95,
+              "risk": "Moderate"
+            },
+            {
+              "id": 4373,
+              "village": "Hongadahalla",
+              "latitude": 12.776367791403752,
+              "longitude": 75.71159921275006,
+              "susceptibility": 64.57,
+              "risk": "Moderate"
+            },
+            {
+              "id": 9851,
+              "village": "Arani",
+              "latitude": 12.725771960350205,
+              "longitude": 75.71165999136002,
+              "susceptibility": 64.36,
+              "risk": "Moderate"
+            },
+            {
+              "id": 15953,
+              "village": "Arani",
+              "latitude": 12.754288765795442,
+              "longitude": 75.68644056207296,
+              "susceptibility": 64.27,
+              "risk": "Moderate"
+            },
+            {
+              "id": 15389,
+              "village": "Hongadahalla",
+              "latitude": 12.790856941001254,
+              "longitude": 75.6995760628586,
+              "susceptibility": 64.09,
+              "risk": "Moderate"
+            },
+            {
+              "id": 21583,
+              "village": "Arani",
+              "latitude": 12.73059230006869,
+              "longitude": 75.67191928820954,
+              "susceptibility": 64.08,
+              "risk": "Moderate"
+            },
+            {
+              "id": 2781,
+              "village": "Hongadahalla",
+              "latitude": 12.791078279180908,
+              "longitude": 75.69639775780492,
+              "susceptibility": 63.51,
+              "risk": "Moderate"
+            },
+            {
+              "id": 7617,
+              "village": "Arani",
+              "latitude": 12.718652911827498,
+              "longitude": 75.71119573297318,
+              "susceptibility": 63.39,
+              "risk": "Moderate"
+            },
+            {
+              "id": 23422,
+              "village": "Attihalli",
+              "latitude": 12.766482535100875,
+              "longitude": 75.72641351617625,
+              "susceptibility": 63.15,
+              "risk": "Moderate"
+            },
+            {
+              "id": 12363,
+              "village": "Vanaguru Kuduraste",
+              "latitude": 12.733087092301885,
+              "longitude": 75.74912999567846,
+              "susceptibility": 62.78,
+              "risk": "Moderate"
+            },
+            {
+              "id": 543,
+              "village": "Arani",
+              "latitude": 12.719882480801155,
+              "longitude": 75.69704296944934,
+              "susceptibility": 62.76,
+              "risk": "Moderate"
+            },
+            {
+              "id": 9993,
+              "village": "Mankanahalli",
+              "latitude": 12.708629993455308,
+              "longitude": 75.71387139320719,
+              "susceptibility": 62.63,
+              "risk": "Moderate"
+            },
+            {
+              "id": 10946,
+              "village": "Goddu",
+              "latitude": 12.711032919577455,
+              "longitude": 75.78118862556364,
+              "susceptibility": 62.25,
+              "risk": "Moderate"
+            },
+            {
+              "id": 5122,
+              "village": "Boranamane",
+              "latitude": 12.74105369219676,
+              "longitude": 75.71078147831062,
+              "susceptibility": 61.68,
+              "risk": "Moderate"
+            },
+            {
+              "id": 20393,
+              "village": "Attihalli",
+              "latitude": 12.783661755843786,
+              "longitude": 75.7210740371104,
+              "susceptibility": 61.59,
+              "risk": "Moderate"
+            },
+            {
+              "id": 1700,
+              "village": "Hosahalli",
+              "latitude": 12.792306964407835,
+              "longitude": 75.72508835690769,
+              "susceptibility": 60.96,
+              "risk": "Moderate"
+            },
+            {
+              "id": 11706,
+              "village": "Hongadahalla",
+              "latitude": 12.770476456156269,
+              "longitude": 75.71217361497072,
+              "susceptibility": 60.86,
+              "risk": "Moderate"
+            },
+            {
+              "id": 23345,
+              "village": "Mankanahalli",
+              "latitude": 12.736725184072608,
+              "longitude": 75.70953210553724,
+              "susceptibility": 60.73,
+              "risk": "Moderate"
+            },
+            {
+              "id": 14570,
+              "village": "Goddu",
+              "latitude": 12.719895102762866,
+              "longitude": 75.77580068119248,
+              "susceptibility": 60.67,
+              "risk": "Moderate"
+            },
+            {
+              "id": 1574,
+              "village": "Arani",
+              "latitude": 12.733756188087169,
+              "longitude": 75.67202294890397,
+              "susceptibility": 60.43,
+              "risk": "Moderate"
+            },
+            {
+              "id": 21309,
+              "village": "Vanaguru Kuduraste",
+              "latitude": 12.730621858968604,
+              "longitude": 75.71532575491113,
+              "susceptibility": 60.35,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "pincode": "573165",
+          "high_risk_points": 16,
+          "villages": [
+            "Achchanahalli",
+            "Agani",
+            "Bilisare",
+            "Hanubalu",
+            "Jambaradi",
+            "Makkihalli"
+          ],
+          "maximum_susceptibility": 93.44,
+          "locations": [
+            {
+              "id": 18606,
+              "village": "Bilisare",
+              "latitude": 12.960020795596195,
+              "longitude": 75.6553248399979,
+              "susceptibility": 93.44,
+              "risk": "Very High"
+            },
+            {
+              "id": 7390,
+              "village": "Agani",
+              "latitude": 12.930938800401472,
+              "longitude": 75.66483400832355,
+              "susceptibility": 86.56,
+              "risk": "Very High"
+            },
+            {
+              "id": 21199,
+              "village": "Agani",
+              "latitude": 12.965112454051088,
+              "longitude": 75.66892113816331,
+              "susceptibility": 81.17,
+              "risk": "Very High"
+            },
+            {
+              "id": 8477,
+              "village": "Agani",
+              "latitude": 12.939053296291249,
+              "longitude": 75.6703424555945,
+              "susceptibility": 80.91,
+              "risk": "Very High"
+            },
+            {
+              "id": 18543,
+              "village": "Bilisare",
+              "latitude": 12.961580316986096,
+              "longitude": 75.65297518104785,
+              "susceptibility": 79.61,
+              "risk": "High"
+            },
+            {
+              "id": 13364,
+              "village": "Agani",
+              "latitude": 12.941666289088545,
+              "longitude": 75.6685682897474,
+              "susceptibility": 78.33,
+              "risk": "High"
+            },
+            {
+              "id": 7581,
+              "village": "Bilisare",
+              "latitude": 12.967443677437272,
+              "longitude": 75.64624583168441,
+              "susceptibility": 71.28,
+              "risk": "High"
+            },
+            {
+              "id": 7680,
+              "village": "Hanubalu",
+              "latitude": 13.005990149486877,
+              "longitude": 75.70076958755766,
+              "susceptibility": 70.01,
+              "risk": "High"
+            },
+            {
+              "id": 13099,
+              "village": "Bilisare",
+              "latitude": 12.959523014987804,
+              "longitude": 75.64673209339745,
+              "susceptibility": 68.83,
+              "risk": "Moderate"
+            },
+            {
+              "id": 14444,
+              "village": "Makkihalli",
+              "latitude": 12.980102782219769,
+              "longitude": 75.69193836611939,
+              "susceptibility": 67.29,
+              "risk": "Moderate"
+            },
+            {
+              "id": 18612,
+              "village": "Agani",
+              "latitude": 12.970071036223125,
+              "longitude": 75.67240683582928,
+              "susceptibility": 65.64,
+              "risk": "Moderate"
+            },
+            {
+              "id": 20647,
+              "village": "Agani",
+              "latitude": 12.938860059204654,
+              "longitude": 75.65731118466815,
+              "susceptibility": 62.07,
+              "risk": "Moderate"
+            },
+            {
+              "id": 17923,
+              "village": "Jambaradi",
+              "latitude": 12.983926363502096,
+              "longitude": 75.70405264524237,
+              "susceptibility": 61.96,
+              "risk": "Moderate"
+            },
+            {
+              "id": 22763,
+              "village": "Achchanahalli",
+              "latitude": 12.995993645457952,
+              "longitude": 75.66886371722816,
+              "susceptibility": 61.24,
+              "risk": "Moderate"
+            },
+            {
+              "id": 24300,
+              "village": "Agani",
+              "latitude": 12.930938089192926,
+              "longitude": 75.6729615597046,
+              "susceptibility": 61.23,
+              "risk": "Moderate"
+            },
+            {
+              "id": 12041,
+              "village": "Bilisare",
+              "latitude": 12.971029722441616,
+              "longitude": 75.65339281912291,
+              "susceptibility": 60.07,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "pincode": "573173",
+          "high_risk_points": 18,
+          "villages": [
+            "Birahalli",
+            "Changadihalli",
+            "Doddakunduru Koppalu",
+            "Hosakote",
+            "Hulagatturu",
+            "Kalale",
+            "Ucchangi"
+          ],
+          "maximum_susceptibility": 93.04,
+          "locations": [
+            {
+              "id": 5100,
+              "village": "Hulagatturu",
+              "latitude": 12.708352165024984,
+              "longitude": 75.79677400219171,
+              "susceptibility": 93.04,
+              "risk": "Very High"
+            },
+            {
+              "id": 10824,
+              "village": "Ucchangi",
+              "latitude": 12.765362069405196,
+              "longitude": 75.8133013203651,
+              "susceptibility": 88.5,
+              "risk": "Very High"
+            },
+            {
+              "id": 11797,
+              "village": "Hulagatturu",
+              "latitude": 12.705393895379276,
+              "longitude": 75.79886807148928,
+              "susceptibility": 80.4,
+              "risk": "Very High"
+            },
+            {
+              "id": 11176,
+              "village": "Hulagatturu",
+              "latitude": 12.731280619408809,
+              "longitude": 75.8404322039218,
+              "susceptibility": 74.09,
+              "risk": "High"
+            },
+            {
+              "id": 5477,
+              "village": "Changadihalli",
+              "latitude": 12.711512142549584,
+              "longitude": 75.82328341115345,
+              "susceptibility": 72.21,
+              "risk": "High"
+            },
+            {
+              "id": 10732,
+              "village": "Hulagatturu",
+              "latitude": 12.737663408112972,
+              "longitude": 75.7638297929864,
+              "susceptibility": 71.83,
+              "risk": "High"
+            },
+            {
+              "id": 12527,
+              "village": "Hulagatturu",
+              "latitude": 12.733271104550692,
+              "longitude": 75.81896459414307,
+              "susceptibility": 67.56,
+              "risk": "Moderate"
+            },
+            {
+              "id": 6613,
+              "village": "Hosakote",
+              "latitude": 12.705851398133357,
+              "longitude": 75.81378808963943,
+              "susceptibility": 67.14,
+              "risk": "Moderate"
+            },
+            {
+              "id": 11164,
+              "village": "Changadihalli",
+              "latitude": 12.7061285252641,
+              "longitude": 75.83261750080113,
+              "susceptibility": 66.79,
+              "risk": "Moderate"
+            },
+            {
+              "id": 21003,
+              "village": "Hosakote",
+              "latitude": 12.689521247505938,
+              "longitude": 75.8243098065218,
+              "susceptibility": 64.55,
+              "risk": "Moderate"
+            },
+            {
+              "id": 1216,
+              "village": "Ucchangi",
+              "latitude": 12.745001983271374,
+              "longitude": 75.82175979144736,
+              "susceptibility": 63.03,
+              "risk": "Moderate"
+            },
+            {
+              "id": 14420,
+              "village": "Birahalli",
+              "latitude": 12.74121930546582,
+              "longitude": 75.79915390326305,
+              "susceptibility": 62.57,
+              "risk": "Moderate"
+            },
+            {
+              "id": 14017,
+              "village": "Kalale",
+              "latitude": 12.686667139505776,
+              "longitude": 75.86214351046733,
+              "susceptibility": 62.47,
+              "risk": "Moderate"
+            },
+            {
+              "id": 20516,
+              "village": "Doddakunduru Koppalu",
+              "latitude": 12.751231862667876,
+              "longitude": 75.82323507922477,
+              "susceptibility": 60.92,
+              "risk": "Moderate"
+            },
+            {
+              "id": 161,
+              "village": "Hulagatturu",
+              "latitude": 12.713396978561892,
+              "longitude": 75.79390421193278,
+              "susceptibility": 60.9,
+              "risk": "Moderate"
+            },
+            {
+              "id": 14047,
+              "village": "Hosakote",
+              "latitude": 12.683809707871289,
+              "longitude": 75.82570680027902,
+              "susceptibility": 60.4,
+              "risk": "Moderate"
+            },
+            {
+              "id": 3520,
+              "village": "Hulagatturu",
+              "latitude": 12.724071946576071,
+              "longitude": 75.78917414546481,
+              "susceptibility": 60.34,
+              "risk": "Moderate"
+            },
+            {
+              "id": 17399,
+              "village": "Doddakunduru Koppalu",
+              "latitude": 12.750534030471954,
+              "longitude": 75.8259202057748,
+              "susceptibility": 60.05,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "pincode": "573214",
+          "high_risk_points": 2,
+          "villages": [
+            "Kamenahalli",
+            "Kiruhunase"
+          ],
+          "maximum_susceptibility": 97.25,
+          "locations": [
+            {
+              "id": 8568,
+              "village": "Kiruhunase",
+              "latitude": 12.91525729013439,
+              "longitude": 75.8206857497967,
+              "susceptibility": 97.25,
+              "risk": "Very High"
+            },
+            {
+              "id": 2799,
+              "village": "Kamenahalli",
+              "latitude": 12.87679951184384,
+              "longitude": 75.79578244407537,
+              "susceptibility": 61.32,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "pincode": "574132",
+          "high_risk_points": 26,
+          "villages": [
+            "Bilisare",
+            "Devaladakere",
+            "Nelagalli",
+            "Nikanahalli"
+          ],
+          "maximum_susceptibility": 93.71,
+          "locations": [
+            {
+              "id": 9353,
+              "village": "Nelagalli",
+              "latitude": 12.960942807599022,
+              "longitude": 75.60941904727994,
+              "susceptibility": 93.71,
+              "risk": "Very High"
+            },
+            {
+              "id": 2719,
+              "village": "Bilisare",
+              "latitude": 12.950504839018024,
+              "longitude": 75.638841229144,
+              "susceptibility": 89.45,
+              "risk": "Very High"
+            },
+            {
+              "id": 5589,
+              "village": "Nelagalli",
+              "latitude": 12.97590254900454,
+              "longitude": 75.61102683988197,
+              "susceptibility": 88.76,
+              "risk": "Very High"
+            },
+            {
+              "id": 8752,
+              "village": "Bilisare",
+              "latitude": 12.94246061997943,
+              "longitude": 75.63655051840026,
+              "susceptibility": 86.84,
+              "risk": "Very High"
+            },
+            {
+              "id": 17405,
+              "village": "Bilisare",
+              "latitude": 12.949203552541633,
+              "longitude": 75.65245574334413,
+              "susceptibility": 84.98,
+              "risk": "Very High"
+            },
+            {
+              "id": 16505,
+              "village": "Bilisare",
+              "latitude": 12.95626959879272,
+              "longitude": 75.63653254169189,
+              "susceptibility": 84.15,
+              "risk": "Very High"
+            },
+            {
+              "id": 22673,
+              "village": "Bilisare",
+              "latitude": 12.964529417229398,
+              "longitude": 75.6387494871464,
+              "susceptibility": 82.46,
+              "risk": "Very High"
+            },
+            {
+              "id": 10936,
+              "village": "Nikanahalli",
+              "latitude": 12.973586511507834,
+              "longitude": 75.64984425220005,
+              "susceptibility": 82.25,
+              "risk": "Very High"
+            },
+            {
+              "id": 11129,
+              "village": "Bilisare",
+              "latitude": 12.953751626199042,
+              "longitude": 75.63421294014985,
+              "susceptibility": 79.88,
+              "risk": "High"
+            },
+            {
+              "id": 21229,
+              "village": "Nikanahalli",
+              "latitude": 12.987212569630747,
+              "longitude": 75.644884410336,
+              "susceptibility": 79.16,
+              "risk": "High"
+            },
+            {
+              "id": 10645,
+              "village": "Devaladakere",
+              "latitude": 12.973269899885452,
+              "longitude": 75.62882596619274,
+              "susceptibility": 78.63,
+              "risk": "High"
+            },
+            {
+              "id": 18181,
+              "village": "Nelagalli",
+              "latitude": 12.9522891709003,
+              "longitude": 75.6201167701623,
+              "susceptibility": 77.02,
+              "risk": "High"
+            },
+            {
+              "id": 15050,
+              "village": "Nikanahalli",
+              "latitude": 12.9759125671916,
+              "longitude": 75.65139965031602,
+              "susceptibility": 71.47,
+              "risk": "High"
+            },
+            {
+              "id": 13611,
+              "village": "Bilisare",
+              "latitude": 12.945854961425397,
+              "longitude": 75.63544705785277,
+              "susceptibility": 71.19,
+              "risk": "High"
+            },
+            {
+              "id": 15846,
+              "village": "Bilisare",
+              "latitude": 12.953137766229617,
+              "longitude": 75.64055351309379,
+              "susceptibility": 70.7,
+              "risk": "High"
+            },
+            {
+              "id": 21522,
+              "village": "Nikanahalli",
+              "latitude": 12.96990167226044,
+              "longitude": 75.63975849503578,
+              "susceptibility": 70.49,
+              "risk": "High"
+            },
+            {
+              "id": 6353,
+              "village": "Nelagalli",
+              "latitude": 12.95813326612942,
+              "longitude": 75.61846339804806,
+              "susceptibility": 69.83,
+              "risk": "Moderate"
+            },
+            {
+              "id": 9377,
+              "village": "Bilisare",
+              "latitude": 12.956505616000587,
+              "longitude": 75.64249015827929,
+              "susceptibility": 66.25,
+              "risk": "Moderate"
+            },
+            {
+              "id": 21026,
+              "village": "Devaladakere",
+              "latitude": 12.9758256578253,
+              "longitude": 75.6228371798042,
+              "susceptibility": 65.05,
+              "risk": "Moderate"
+            },
+            {
+              "id": 3712,
+              "village": "Bilisare",
+              "latitude": 12.956194324378249,
+              "longitude": 75.6618463438733,
+              "susceptibility": 64.17,
+              "risk": "Moderate"
+            },
+            {
+              "id": 11005,
+              "village": "Bilisare",
+              "latitude": 12.93994305712749,
+              "longitude": 75.63496707700534,
+              "susceptibility": 63.17,
+              "risk": "Moderate"
+            },
+            {
+              "id": 17928,
+              "village": "Nelagalli",
+              "latitude": 12.985735613666082,
+              "longitude": 75.61667001894686,
+              "susceptibility": 62.19,
+              "risk": "Moderate"
+            },
+            {
+              "id": 11867,
+              "village": "Nelagalli",
+              "latitude": 12.96657098426965,
+              "longitude": 75.61692892767827,
+              "susceptibility": 61.64,
+              "risk": "Moderate"
+            },
+            {
+              "id": 9883,
+              "village": "Nikanahalli",
+              "latitude": 12.97251761931604,
+              "longitude": 75.6448631067837,
+              "susceptibility": 61.18,
+              "risk": "Moderate"
+            },
+            {
+              "id": 10761,
+              "village": "Nikanahalli",
+              "latitude": 12.980818115923388,
+              "longitude": 75.64317060267315,
+              "susceptibility": 60.95,
+              "risk": "Moderate"
+            },
+            {
+              "id": 24533,
+              "village": "Devaladakere",
+              "latitude": 12.980053430721364,
+              "longitude": 75.62464977951767,
+              "susceptibility": 60.86,
+              "risk": "Moderate"
+            }
+          ]
+        },
+        {
+          "pincode": "574238",
+          "high_risk_points": 12,
+          "villages": [],
+          "maximum_susceptibility": 96.73,
+          "locations": [
+            {
+              "id": 4896,
+              "village": null,
+              "latitude": 12.714725423643596,
+              "longitude": 75.65004868225304,
+              "susceptibility": 96.73,
+              "risk": "Very High"
+            },
+            {
+              "id": 1176,
+              "village": null,
+              "latitude": 12.726171931001378,
+              "longitude": 75.65631862018587,
+              "susceptibility": 93.46,
+              "risk": "Very High"
+            },
+            {
+              "id": 16594,
+              "village": null,
+              "latitude": 12.731270465868011,
+              "longitude": 75.65560916738109,
+              "susceptibility": 90.97,
+              "risk": "Very High"
+            },
+            {
+              "id": 11587,
+              "village": null,
+              "latitude": 12.704075093511928,
+              "longitude": 75.63691917991581,
+              "susceptibility": 84.54,
+              "risk": "Very High"
+            },
+            {
+              "id": 7470,
+              "village": null,
+              "latitude": 12.703163668459386,
+              "longitude": 75.63332551731638,
+              "susceptibility": 84.0,
+              "risk": "Very High"
+            },
+            {
+              "id": 11674,
+              "village": null,
+              "latitude": 12.702970031379152,
+              "longitude": 75.65222763684885,
+              "susceptibility": 83.29,
+              "risk": "Very High"
+            },
+            {
+              "id": 9664,
+              "village": null,
+              "latitude": 12.71549073919724,
+              "longitude": 75.65704295903345,
+              "susceptibility": 80.36,
+              "risk": "Very High"
+            },
+            {
+              "id": 15687,
+              "village": null,
+              "latitude": 12.720543262130304,
+              "longitude": 75.65363246797548,
+              "susceptibility": 77.92,
+              "risk": "High"
+            },
+            {
+              "id": 6044,
+              "village": null,
+              "latitude": 12.739065960510596,
+              "longitude": 75.66000076406714,
+              "susceptibility": 77.65,
+              "risk": "High"
+            },
+            {
+              "id": 14608,
+              "village": null,
+              "latitude": 12.716499900862074,
+              "longitude": 75.65304128655683,
+              "susceptibility": 71.61,
+              "risk": "High"
+            },
+            {
+              "id": 1352,
+              "village": null,
+              "latitude": 12.708100425268263,
+              "longitude": 75.64397659341256,
+              "susceptibility": 62.69,
+              "risk": "Moderate"
+            },
+            {
+              "id": 22549,
+              "village": null,
+              "latitude": 12.701842824325205,
+              "longitude": 75.63931999663987,
+              "susceptibility": 61.82,
+              "risk": "Moderate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
